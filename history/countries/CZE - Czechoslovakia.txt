@@ -1,0 +1,7 @@
+﻿capital = 9
+set_cosmetic_tag = CZE_AUSandHUN_council_republic
+
+set_autonomy = {
+	target = KPU
+	autonomy_state = autonomous_republic
+}

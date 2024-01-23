@@ -1,0 +1,11 @@
+﻿capital = 37
+set_cosmetic_tag = DEN_kingdom
+
+set_autonomy = {
+	target = ICE
+	autonomy_state = junior_partner_state
+}
+set_autonomy = {
+	target = LIN
+	autonomy_state = colony
+}

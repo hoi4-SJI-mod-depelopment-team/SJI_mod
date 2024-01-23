@@ -1,0 +1,2 @@
+﻿capital = 525 #South Korea - Seoul or Busan
+set_cosmetic_tag = COUNTRY_JAP

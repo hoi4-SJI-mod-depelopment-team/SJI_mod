@@ -1,0 +1,2 @@
+﻿capital = 44
+set_cosmetic_tag = ALB_kingdom

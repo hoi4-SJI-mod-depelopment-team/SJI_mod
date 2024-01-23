@@ -1,0 +1,22 @@
+
+state={
+	id=515
+	name="STATE_515"
+	history={
+		owner = WAF
+		add_core_of = WAF
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces={
+		1956
+	}
+	manpower=182744
+
+	state_category = wasteland
+	impassable = yes
+}

@@ -1,0 +1,2 @@
+﻿capital = 336 #Kuala Lumpur
+set_cosmetic_tag = MAL_GBRandIREbyENG

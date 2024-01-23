@@ -1,0 +1,2 @@
+﻿capital = 277
+set_cosmetic_tag = MEX_united_state

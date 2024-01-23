@@ -1,0 +1,2 @@
+﻿capital = 307
+set_cosmetic_tag = VEN_republic

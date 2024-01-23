@@ -1,0 +1,60 @@
+﻿capital = 126
+set_cosmetic_tag = GBRandIREbyENG_united_kingdom
+
+GAM = {	set_country_flag = protectorate_flag	}
+NGA = {	set_country_flag = protectorate_flag	}
+SIE = {	set_country_flag = protectorate_flag	}
+
+
+set_autonomy = {
+	target = BEA
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = CAN
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = CYP
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = FIJ
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = GAM
+	autonomy_state = colony_and_protectorate
+}
+set_autonomy = {
+	target = GHA
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = GYA
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = JAM
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = MAL
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = NGA
+	autonomy_state = colony_and_protectorate
+}
+set_autonomy = {
+	target = SIE
+	autonomy_state = colony_and_protectorate
+}
+set_autonomy = {
+	target = SOL
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = SSD
+	autonomy_state = autonomous_region
+}

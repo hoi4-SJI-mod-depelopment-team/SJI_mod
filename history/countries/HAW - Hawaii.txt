@@ -1,0 +1,2 @@
+﻿capital = 629
+set_cosmetic_tag = HAW_kingdom

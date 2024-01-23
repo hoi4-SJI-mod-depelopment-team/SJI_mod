@@ -1,0 +1,2 @@
+﻿capital = 7
+set_cosmetic_tag = NTL_federal_republic

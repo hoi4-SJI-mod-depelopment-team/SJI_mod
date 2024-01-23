@@ -1,0 +1,2 @@
+﻿capital = 279
+set_cosmetic_tag =  CHL_republic

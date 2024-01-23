@@ -1,0 +1,2 @@
+﻿capital = 622
+set_cosmetic_tag = CHI_rate_state

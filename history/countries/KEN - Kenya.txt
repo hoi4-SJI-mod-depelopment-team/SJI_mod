@@ -1,0 +1,2 @@
+﻿capital = 547
+set_cosmetic_tag = KEN_GBRandIREbyENG

@@ -1,0 +1,2 @@
+﻿capital = 558
+set_cosmetic_tag = NGA_GBRandIREbyENG

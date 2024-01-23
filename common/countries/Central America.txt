@@ -1,0 +1,2 @@
+graphical_culture = central_american_gfx
+graphical_culture_2d = central_american_2d

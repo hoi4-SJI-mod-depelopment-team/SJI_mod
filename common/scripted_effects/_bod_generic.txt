@@ -1,0 +1,11 @@
+set_dictatorship = {	#
+	set_politics = {
+		ruling_party = authoritarian_despotism
+		last_election = "1908.8.31"
+		election_frequency = 48
+		elections_allowed = no
+	}
+	set_popularities = {
+		authoritarian_despotism = 100
+	}
+}

@@ -1,0 +1,2 @@
+﻿capital = 335 #Jakarta
+set_cosmetic_tag = COUNTRY_JAP

@@ -1,0 +1,2 @@
+﻿capital = 687
+set_cosmetic_tag = GYA_GBRandIREbyENG

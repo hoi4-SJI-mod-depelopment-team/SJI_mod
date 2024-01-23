@@ -1,0 +1,44 @@
+﻿capital = 282
+
+set_cosmetic_tag = GREATERJAPAN_empire
+
+set_autonomy = {
+	target = AST
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = BLZ
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = CAY
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = GUM
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = INS
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = KOR
+	autonomy_state = overseas_territories
+}
+set_autonomy = {
+	target = MAN
+	autonomy_state = autonomy_wtt_imperial_protectorate
+}
+set_autonomy = {
+	target = NGU
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = NZL
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = RAJ
+	autonomy_state = junior_partner_colony
+}

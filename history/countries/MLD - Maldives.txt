@@ -1,0 +1,2 @@
+﻿capital = 281
+set_cosmetic_tag = MLD_GBRandIREbyENG

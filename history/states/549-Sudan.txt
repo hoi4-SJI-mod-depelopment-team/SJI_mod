@@ -1,0 +1,15 @@
+state={
+	id=549
+	name="STATE_549"
+	manpower = 3194293
+	state_category=rural
+	provinces={ 1914 2016 4918 8084 10795 10827 10851 12744 12887 }
+	history={
+		owner = ENG
+		add_core_of = SUD
+		add_claim_by = EGY
+		buildings={
+			infrastructure = 1
+		}
+	}
+}

@@ -1,0 +1,2 @@
+﻿capital = 278
+set_cosmetic_tag = ARG_republic

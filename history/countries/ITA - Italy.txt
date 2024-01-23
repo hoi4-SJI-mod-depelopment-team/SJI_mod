@@ -1,0 +1,83 @@
+﻿capital = 2
+set_cosmetic_tag = ITAbySRDandTTS_empire
+
+set_autonomy = {
+	target = ALB
+	autonomy_state = protected_state
+}
+set_autonomy = {
+	target = ANG
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
+	target = AOI
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = EQA
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = EQG
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
+	target = ETH
+	autonomy_state = protected_state
+}
+set_autonomy = {
+	target = FRA
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = GNB
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
+	target = HOL
+	autonomy_state = protected_state
+}
+set_autonomy = {
+	target = INC
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
+	target = MAD
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = MNT
+	autonomy_state = protected_state
+}
+set_autonomy = {
+	target = MZB
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
+	target = PNG
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = POR
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = ROM
+	autonomy_state = protected_state
+}
+set_autonomy = {
+	target = SPR
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = TLS
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
+	target = WAF
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = WES
+	autonomy_state = mandate_territory
+}

@@ -1,0 +1,2 @@
+﻿capital = 684
+set_cosmetic_tag = COUNTRY_GERbyPRE_reich

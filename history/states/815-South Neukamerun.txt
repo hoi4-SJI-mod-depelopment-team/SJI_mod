@@ -1,0 +1,16 @@
+state={
+	id=815
+	name="STATE_815"
+	provinces={
+		3109 4903 5035 10948 
+	}
+	manpower=132456
+	history={
+		owner = EQA
+		add_core_of = EQA
+		add_core_of = RCG
+		
+	}	
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

@@ -1,0 +1,2 @@
+﻿capital = 330
+set_cosmetic_tag = GREATMONGOLIA_state

@@ -1,0 +1,64 @@
+﻿l_japanese:
+##国名
+#アジア
+ GREATERJAPAN_empire:0 "大日本帝国"
+ GREATERJAPAN_empire_DEF:0 "大日本帝国"
+ GREATERJAPAN_empire_ADJ:0 "日本"
+ 
+ GREATMONGOLIA_state:0 "大モンゴル国"
+ GREATMONGOLIA_state_DEF:0 "大モンゴル国"
+ GREATMONGOLIA_state_ADJ:0 "大モンゴル"
+ 
+ IRAN_imperial_state:0 "イラン帝国"
+ IRAN_imperial_state_DEF:0 "イラン帝国"
+ IRAN_imperial_state_ADJ:0 "イラン"
+ 
+ JABALSHAMMAR_emirate:0 "ジャバル・シャンマル首長国"
+ JABALSHAMMAR_emirate_DEF:0 "ジャバル・シャンマル首長国"
+ JABALSHAMMAR_emirate_ADJ:0 "ジャバル・シャンマル"
+ 
+ MALAY_federated_states:0 "マレー連邦"
+ MALAY_federated_states_DEF:0 "マレー連邦"
+ MALAY_federated_states_ADJ:0 "マレー"
+ 
+#ヨーロッパ
+ GERbyPRE_reich_government_in_exile:0 "ドイツ帝国亡命政府"
+ GERbyPRE_reich_government_in_exile_DEF:0 "ドイツ帝国亡命政府"
+ GERbyPRE_reich_government_in_exile_ADJ:0 "ドイツ"
+
+#新大陸
+ AMERICA_united_states_48:0 "アメリカ合衆国"
+ AMERICA_united_states_48_DEF:0 "アメリカ合衆国"
+ AMERICA_united_states_48_ADJ:0 "アメリカ"
+ 
+##連合国家
+#アジア
+ NEJDandHASA_emirate:0 "ナジュド及びハッサ首長国"
+ NEJDandHASA_emirate_DEF:0 "ナジュド及びハッサ首長国"
+ NEJDandHASA_emirate_ADJ:0 "ナジュド・ハッサ"
+ 
+#ヨーロッパ
+ AUSandHUN_council_republic:0 "オーストリア及びハンガリー評議会共和国"
+ AUSandHUN_council_republic_DEF:0 "オーストリア及びハンガリー評議会共和国"
+ AUSandHUN_council_republic_ADJ:0 "オーストリア・ハンガリー"
+
+ FIN-EST_SOV_republic:0 "フィンランド＝エストニア・ソビエト共和国"
+ FIN-EST_SOV_republic_DEF:0 "フィンランド＝エストニア・ソビエト共和国"
+ FIN-EST_SOV_republicm_ADJ:0 "フィンランド＝エストニア"
+ 
+ GBRandIREbyENG_united_kingdom:0 "グレートブリテン及びアイルランド連合王国"
+ GBRandIREbyENG_united_kingdom_DEF:0 "グレートブリテン及びアイルランド連合王国"
+ GBRandIREbyENG_united_kingdom_ADJ:0 "イギリス"
+ 
+ ITAbySRDandTTS_empire:0 "イタリア帝国"
+ ITAbySRDandTTS_empire_DEF:0 "イタリア帝国"
+ ITAbySRDandTTS_empire_ADJ:0 "イタリア"
+
+ POLandLIT_rate_state:0 "ポーランド＝リトアニア・レーテ国"
+ POLandLIT_rate_state_DEF:0 "ポーランド＝リトアニア・レーテ国"
+ POLandLIT_rate_state_ADJ:0 "ポーランド＝リトアニア"
+
+#中米
+ CENTRALAMERICA_federal_republic:0 "中央アメリカ連邦共和国"
+ CENTRALAMERICA_federal_republic_DEF:0 "中央アメリカ連邦共和国"
+ CENTRALAMERICA_federal_republic_ADJ:0 "中央アメリカ"

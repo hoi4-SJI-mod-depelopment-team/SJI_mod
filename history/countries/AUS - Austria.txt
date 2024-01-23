@@ -1,0 +1,19 @@
+﻿capital = 4
+set_cosmetic_tag = AUSandHUN_council_republic
+
+set_autonomy = {
+	target = CZE
+	autonomy_state = autonomous_republic
+}
+set_autonomy = {
+	target = KPU
+	autonomy_state = autonomous_republic
+}
+set_autonomy = {
+	target = KRK
+	autonomy_state = autonomous_republic
+}
+set_autonomy = {
+	target = TRA
+	autonomy_state = autonomous_prefecture
+}

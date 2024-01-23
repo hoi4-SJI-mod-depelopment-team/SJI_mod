@@ -1,0 +1,2 @@
+﻿capital = 543
+set_cosmetic_tag = COUNTRY_ITAbySRDandTTS

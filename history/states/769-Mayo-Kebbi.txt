@@ -1,0 +1,17 @@
+state={
+	id=769
+	name="STATE_769" 
+	state_category = wasteland
+	history={
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		9152 6779 
+	}
+	manpower=131456
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,2 @@
+﻿capital = 183
+set_cosmetic_tag = CYP_GBRandIREbyENG

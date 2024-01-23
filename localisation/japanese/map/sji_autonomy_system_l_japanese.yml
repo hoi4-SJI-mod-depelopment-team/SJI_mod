@@ -1,0 +1,28 @@
+﻿l_japanese:
+#傀儡
+ autonomous_puppet:0 "自治傀儡国"
+ puppet:0 "傀儡国"
+ integrated_puppet:0 "統合傀儡国"
+#自治地域
+ autonomous_prefectur:0 "自治州"
+ autonomous_region:0 "自治区"
+ autonomous_country:0 "自治国"
+ autonomous_republic:0 "自治共和国"
+#植民地政府
+ colony:0 "植民地"
+ overseas_territories:0 "海外領土"
+ mandate_territory:0 "委任統治領"
+ joint_mandate_territory:0 "共同委任統治領"
+ condominium:0 "共同統治領"
+ colonies_federation:0 "植民地連邦"
+ protected_state:0 "保護国"
+ protected_territory:0 "保護領"
+ colony_and_protectorate:0 "植民地及び保護領"
+ 
+#同君連合
+ junior_partner_state:0 "同君連合下位国"
+ junior_partner_colony:0 "同君連合植民地"
+ 
+#その他
+ princely_state:0 "藩王国"
+ leased_territory:0 "租借地"

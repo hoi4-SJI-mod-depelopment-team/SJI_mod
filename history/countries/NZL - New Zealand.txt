@@ -1,0 +1,2 @@
+﻿capital = 284
+set_cosmetic_tag = COUNTRY_JAP

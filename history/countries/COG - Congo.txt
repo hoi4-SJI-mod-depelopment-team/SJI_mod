@@ -1,0 +1,27 @@
+﻿capital = 295
+set_cosmetic_tag =  GERbyPRE_reich_government_in_exile
+
+set_autonomy = {
+	target = CMR
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = EAF
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = FSM
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = NMB
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = NSL
+	autonomy_state = protected_territory
+}
+set_autonomy = {
+	target = TOG
+	autonomy_state = protected_territory
+}

@@ -1,0 +1,50 @@
+bookmarks = {
+	bookmark = {
+		name = ""
+		desc = ""
+		date = 1930.1.1.1
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		"ITA"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"JAP"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"ENG"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"GER"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"SOV"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"FRA"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"AUS"={
+			history = ""
+			# ideas = {}
+			focuses = {}
+		}
+		"---"={
+			history = "COUNTRY_start_desc"
+		}
+		effect = {	randomize_weather = 22345	}
+	}
+}

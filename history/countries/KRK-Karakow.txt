@@ -1,0 +1,2 @@
+
+set_cosmetic_tag = KRK_AUSandHUN_council_republic

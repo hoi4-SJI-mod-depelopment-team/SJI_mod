@@ -1,0 +1,66 @@
+ideas = {
+	tank_manufacturer = { 
+		designer = yes
+		generic_tank_manufacturer = {
+			# picture = 
+			
+			allowed = {	always = yes	}
+			cost = 150
+			removal_cost = 10
+			
+			# traits = {}
+			# research_bonus = {}
+		}
+	}
+	naval_manufacturer = { 
+		designer = yes
+		generic_naval_manufacturer = {
+			# picture = 
+			
+			allowed = {	always = yes	}
+			cost = 150
+			removal_cost = 10
+			
+			# traits = {}
+			# research_bonus = {}
+		}
+	}
+	aircraft_manufacturer = { 
+		designer = yes
+		generic_aircraft_manufacturer = {
+			# picture = 
+			
+			allowed = {	always = yes	}
+			cost = 150
+			removal_cost = 10
+			
+			# traits = {}
+			# research_bonus = {}
+		}
+	}
+	industrial_concern = {
+		generic_industrial_concern = {
+			# picture = 
+			
+			allowed = {	always = yes	}
+			cost = 150
+			removal_cost = 10
+			
+			# traits = {}
+			# research_bonus = {}
+		}
+	}
+	materiel_manufacturer = {
+		designer = yes
+		generic_materiel_manufacturer = {
+			# picture = 
+			
+			allowed = {	always = yes	}
+			cost = 150
+			removal_cost = 10
+			
+			# traits = {}
+			# research_bonus = {}
+		}
+	}
+}

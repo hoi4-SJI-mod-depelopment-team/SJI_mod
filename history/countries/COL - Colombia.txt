@@ -1,0 +1,2 @@
+﻿capital = 306
+set_cosmetic_tag = COL_republic

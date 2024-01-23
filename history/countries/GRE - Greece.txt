@@ -1,0 +1,2 @@
+﻿capital = 47
+set_cosmetic_tag = GRE_republic

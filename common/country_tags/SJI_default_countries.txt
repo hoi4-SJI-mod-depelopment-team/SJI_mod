@@ -1,0 +1,27 @@
+#アジア
+ ASR = "countries/Asia.txt"	#アシール
+ HIL = "countries/Asia.txt"	#ハーイル
+ HJZ = "countries/Asia.txt"	#ヒジャーズ
+ INC = "countries/Asia.txt"	#インドシナ
+ NAJ = "countries/Asia.txt"	#ナジュド
+ OTT = "countries/Asia.txt"	#オスマン
+ TLS = "countries/Asia.txt"	#東ティモール
+
+#アフリカ
+ BEA = "countries/Africa.txt"	#イギリス領東アフリカ
+ CYR = "countries/Africa.txt"	#キレナイカ
+ EAF = "countries/Africa.txt"	#東アフリカ
+ EQA = "countries/Africa.txt"	#赤道アフリカ
+ SSD = "countries/Africa.txt"	#南スーダン
+ TPT = "countries/Africa.txt"	#トリポリタニア
+ WAF = "countries/Africa.txt"	#西アフリカ
+
+#ヨーロッパ
+ KPU = "countries/Europa.txt"	#カルパトウクライナ
+ KRK = "countries/Europa.txt"	#クラクフ
+
+#アメリカ大陸
+#大洋州
+ LIN = "countries/Oceania.txt"	#ライン諸島
+ NGU = "countries/Oceania.txt"	#ニューギニア
+ NSL = "countries/Oceania.txt"	#北ソロモン諸島
