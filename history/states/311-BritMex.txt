@@ -6,7 +6,8 @@ state={
 	provinces={ 2077 }
 
 	history={
-		owner=ENG
+		owner=BLZ
+		add_core_of = BLZ
 
 		buildings={
 			infrastructure = 2

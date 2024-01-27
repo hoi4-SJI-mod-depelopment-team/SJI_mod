@@ -6,18 +6,15 @@ state={
 	provinces={ 994 1038 1070 11963 11990 }
 	history={
 		victory_points={ 1070 1 }
-		owner=QIN
-		add_core_of=QIN
+		owner = CHI
+		add_core_of=GXC
 
 		buildings={
 			infrastructure = 1
 			1070={ naval_base=2 }
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
 		}
 	}
 	local_supplies=1.0 

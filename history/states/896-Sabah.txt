@@ -15,7 +15,7 @@ state={
 			10199 1 
 		}
 		owner = MAL
-		add_claim_by = PHI
+		add_claim_by = MAL
 		buildings = {
 			infrastructure = 1
 			10199 = {

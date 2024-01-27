@@ -16,18 +16,14 @@ state={
 		victory_points = {
 			4144 1 
 		}
-		owner = QIN
-		add_core_of = QIN
+		owner = CHI
+		add_core_of = CHI
 		buildings = {
 			infrastructure = 2
 
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
-
 		}
 
 	}

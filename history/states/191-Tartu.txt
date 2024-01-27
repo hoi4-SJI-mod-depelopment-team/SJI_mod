@@ -7,7 +7,7 @@ state={
 		victory_points = {
 			9221 1 
 		}
-		owner = SOV
+		owner = FIN
 		add_core_of = SOV
 		add_core_of = EST
 		buildings = {

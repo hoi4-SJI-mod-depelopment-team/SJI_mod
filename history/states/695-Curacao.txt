@@ -5,7 +5,7 @@ state={
 	state_category=small_island
 	provinces={ 153 }
 	history={
-		owner=SUR
+		owner=CRC
 		buildings={
 			infrastructure = 2
 			153={ naval_base=1  }

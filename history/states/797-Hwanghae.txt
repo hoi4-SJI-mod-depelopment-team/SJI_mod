@@ -8,10 +8,7 @@ state={
 	history={
 		owner = KOR
 		add_core_of = KOR
-		1910.8.22 = {
-			owner = JAP
-			controller = JAP
-		}
+	
 		buildings = {
 			infrastructure = 2
 		}

@@ -6,7 +6,9 @@ state={
 		victory_points = {
 			4329 1 
 		}
-		owner = PNG
+		owner = AST
+		add_core_of=AST
+		add_core_of=NGU
 		add_core_of=PNG
 		buildings = {
 			infrastructure = 1

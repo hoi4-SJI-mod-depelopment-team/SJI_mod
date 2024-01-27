@@ -10,8 +10,7 @@ state={
 		victory_points={ 1138 1 }
 		victory_points={ 7027 1 }
 		victory_points={ 1006 1 }
-		owner=QIN
-		add_core_of=QIN
+		owner=CHI
 		buildings={
 			infrastructure = 2
 			industrial_complex=1
@@ -19,10 +18,8 @@ state={
 			4196={ naval_base=3 }
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
+			add_core_of = CHI
 		}
 	}
 }

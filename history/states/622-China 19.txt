@@ -8,17 +8,14 @@ state={
 			8049 3 
 		}
 		
-		owner = QIN
-		add_core_of = QIN
+		owner = PRC
+		add_core_of = PRC
 		buildings = {
 			infrastructure = 1
 
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
 
 		}
 

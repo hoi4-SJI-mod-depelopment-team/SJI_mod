@@ -11,9 +11,8 @@ state={
 			infrastructure = 1
 		}
 		1910.6.10 = {
-			owner = ENG
-			controller = ENG
-			remove_core_of = COG
+			owner = BEA
+			add_core_of = BEA
 			add_core_of = UGA
 		}
 	}

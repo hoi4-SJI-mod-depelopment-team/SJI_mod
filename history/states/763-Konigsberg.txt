@@ -5,8 +5,7 @@ state={
 	manpower = 1370000
 	state_category = town
 	history={
-		owner = GER
-		controller = GER
+		owner = POL
 		
 		victory_points = {
 			6332 10 
@@ -22,6 +21,7 @@ state={
 			dockyard=2
 		}
 		add_core_of = GER
+		add_core_of = POL
 	}
 	provinces={
 		281 348 395 3384 3351 6332 6402 9327 9398 11245 11265

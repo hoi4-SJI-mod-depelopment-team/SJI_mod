@@ -1,1 +1,10 @@
 ﻿capital = 6
+
+set_autonomy = {
+	target = COG
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = TOG
+	autonomy_state = mandate_territory
+}

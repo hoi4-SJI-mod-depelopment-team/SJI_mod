@@ -8,37 +8,41 @@ set_autonomy = {
 }
 set_autonomy = {
 	target = BLZ
-	autonomy_state = colony
+	autonomy_state = government_general
 }
 set_autonomy = {
 	target = CAY
-	autonomy_state = colony
+	autonomy_state = government_general
+}
+set_autonomy = {
+	target = FSM
+	autonomy_state = mandate_territory
 }
 set_autonomy = {
 	target = GUM
-	autonomy_state = colony
+	autonomy_state = government_general
 }
 set_autonomy = {
-	target = INS
-	autonomy_state = colony
+	target = CHI
+	autonomy_state = government_general
+}
+set_autonomy = {
+	target = INC
+	autonomy_state = government_general
 }
 set_autonomy = {
 	target = KOR
-	autonomy_state = overseas_territories
+	autonomy_state = government_general
 }
 set_autonomy = {
 	target = MAN
-	autonomy_state = autonomy_wtt_imperial_protectorate
+	autonomy_state = government_general
 }
 set_autonomy = {
 	target = NGU
-	autonomy_state = colony
-}
-set_autonomy = {
-	target = NZL
-	autonomy_state = colony
+	autonomy_state = mandate_territory
 }
 set_autonomy = {
 	target = RAJ
-	autonomy_state = junior_partner_colony
+	autonomy_state = government_general
 }

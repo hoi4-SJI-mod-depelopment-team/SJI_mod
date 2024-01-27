@@ -5,7 +5,8 @@ state={
 	manpower = 17897
 	state_category = pastoral
 	history={
-		owner = QAT
+		owner = ENG
+		add_core_of = ENG
 		add_core_of = QAT
 		victory_points = {
 			8051 1

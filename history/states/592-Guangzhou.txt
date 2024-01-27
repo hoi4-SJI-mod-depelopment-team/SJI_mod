@@ -9,8 +9,8 @@ state={
 	}
 	history={
 		victory_points={ 1047 5 }
-		owner=QIN
-		add_core_of=QIN
+		owner = CHI
+		add_core_of=GND
 		buildings={
 			infrastructure = 2
 			industrial_complex=1
@@ -18,10 +18,7 @@ state={
 			1047={ naval_base=5 }
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
 		}
 	}
 	local_supplies=1.0 

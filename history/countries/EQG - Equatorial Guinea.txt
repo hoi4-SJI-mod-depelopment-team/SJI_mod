@@ -1,2 +1,2 @@
 ﻿capital = 297
-set_cosmetic_tag = COUNTRY_ITAbySRDandTTS
+set_cosmetic_tag = COUNTRY_SPR_kingdom

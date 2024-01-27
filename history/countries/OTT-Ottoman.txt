@@ -1,2 +1,7 @@
 
 set_cosmetic_tag = ottoman_empire
+
+set_autonomy = {
+	target = BUL
+	autonomy_state = autonomous_prefecture
+}

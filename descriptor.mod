@@ -4,6 +4,7 @@ tags={
 }
 name="Strong Japan&Italy"
 replace_path="common/bookmarks"
+replace_path="events"
 replace_path="history/countries"
 replace_path="history/general"
 replace_path="history/states"

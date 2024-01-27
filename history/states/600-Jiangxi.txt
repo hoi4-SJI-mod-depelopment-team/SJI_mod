@@ -7,16 +7,13 @@ state={
 	history={
 		victory_points={ 3992 3 }
 		victory_points={ 1053 1 }
-		owner=QIN
-		add_core_of=QIN
+		owner=NOC
+		add_core_of=NOC
 		buildings={
 			infrastructure = 2
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
 		}
 	}
 	local_supplies=3.0 

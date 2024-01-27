@@ -1,1 +1,2 @@
 ﻿capital = 285
+set_cosmetic_tag = COUNTRY_ITAbySRDandTTS

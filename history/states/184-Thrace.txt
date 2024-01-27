@@ -8,7 +8,7 @@ state={
 		chromium=5
 	}
 	history={
-		owner = OTT
+		owner = GRE
 		add_core_of = TUR
 		add_core_of = BUL
 		add_claim_by = BUL
@@ -16,14 +16,6 @@ state={
 		victory_points = { 9930 1 }
 		buildings={
 			infrastructure = 2
-		}
-		1913.5.30 = {
-			owner = BUL
-			controller = BUL
-		}
-		1913.8.10 = {
-			owner = GRE
-			controller = GRE
 		}
 	}
 }

@@ -7,15 +7,12 @@ state={
 
 	history={
 		victory_points = { 4205 1 }
-		owner=ENG
-		add_core_of = QIN
+		owner=WHW
+		add_core_of = WHW
+		add_core_of = CHI
 		buildings={
 			infrastructure = 2
 			4205={ naval_base=2 }
-		}
-		1912.2.12 = {
-			add_core_of = CHI
-			remove_core_of = QIN
 		}
 	}
 }

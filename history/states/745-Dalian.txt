@@ -6,15 +6,14 @@ state={
 	provinces={ 10000 }
 	history={
 		victory_points={ 10000 1 }
-		owner=GER
-		add_core_of=QIN
+		owner=CHI
+		add_core_of = CHI
 		buildings={
 			infrastructure = 1
 			10000={ naval_base=4 }
 		}
 		1912.2.12 = {
 			add_core_of = CHI
-			remove_core_of = QIN
 		}
 	}
 }

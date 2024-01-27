@@ -1,4 +1,4 @@
-autonomy_states = {
+autonomy_state = {
 	id = autonomous_prefecture
 	use_overlord_color = yes
 	min_freedom_level = 0.7
@@ -25,9 +25,8 @@ autonomy_states = {
 		autonomous_country
 		autonomous_republic
 }
-allowed = {	NOT = { has_country_flag = federal_flag} 	}
 }
-autonomy_states = {
+autonomy_state = {
 	id = autonomous_region
 	
 	use_overlord_color = yes
@@ -56,7 +55,7 @@ autonomy_states = {
 		autonomous_republic
 }
 }
-autonomy_states = {
+autonomy_state = {
 	id = autonomous_country
 	
 	use_overlord_color = yes
@@ -85,7 +84,7 @@ autonomy_states = {
 		autonomous_republic
 }
 }
-autonomy_states = {
+autonomy_state = {
 	id = autonomous_republic
 	
 	use_overlord_color = yes

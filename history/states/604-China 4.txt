@@ -4,7 +4,8 @@ state={
 	name="STATE_604"
 
 	history={
-		owner = QIN
+		owner = QGH
+		add_core_of=QGH
 		add_core_of = QIN
 		add_claim_by = TIB
 
@@ -16,12 +17,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 1
-		}
-		1912.2.12 = {
-			owner = CHI
-			controller = CHI
-			add_core_of = CHI
-			remove_core_of = QIN
 		}
 	}
 

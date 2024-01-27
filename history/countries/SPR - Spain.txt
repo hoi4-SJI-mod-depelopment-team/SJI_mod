@@ -1,2 +1,11 @@
 ﻿capital = 41
 set_cosmetic_tag = SPR_kingdom
+
+set_autonomy = {
+	target = EQG
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = WES
+	autonomy_state = colony
+}

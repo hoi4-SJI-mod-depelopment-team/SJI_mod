@@ -249,9 +249,9 @@
  VLA_DEF:0 "ウラジオストク"
  VLA_ADJ:0 "ウラジオストク"
  
- XIB:0 "西北"
- XIB_DEF:0 "西北"
- XIB_ADJ:0 "西北"
+ XSM:0 "西北"
+ XSM_DEF:0 "西北"
+ XSM_ADJ:0 "西北"
  
  YAM:0 "ヤマリア"
  YAM_DEF:0 "ヤマリア"
@@ -1059,7 +1059,11 @@
  DLI:0 "大連"
  DLI_DEF:0 "大連"
  DLI_ADJ:0 "大連"
- 
+
+ FJN:0 "福建"
+ FJN_DEF:0 "福建"
+ FIN_ADJ:0 "福建"
+
  FNG:0 "奉天"
  FNG_DEF:0 "奉天"
  FNG_ADJ:0 "奉天"
@@ -1108,6 +1112,10 @@
  KEL_DEF:0 "クランタン"
  KEL_ADJ:0 "クランタン"
  
+ KWB:0 "川辺"
+ KWB_DEF:0 "川辺"
+ KWB_ADJ:0 "川辺"
+ 
  KFT:0 "樺太"
  KFT_DEF:0 "樺太"
  KFT_ADJ:0 "樺太"
@@ -1127,6 +1135,10 @@
  NAN:0 "南京"
  NAN_DEF:0 "南京"
  NAN_ADJ:0 "南京"
+  
+ NGX:0 "寧夏"
+ NGX_DEF:0 "寧夏"
+ NGX_ADJ:0 "寧夏"
  
  OTT:0 "オスマン"
  OTT_DEF:0 "オスマン"
@@ -1139,7 +1151,11 @@
  PUD:0 "ポンディシェリ"
  PUD_DEF:0 "ポンディシェリ"
  PUD_ADJ:0 "ポンディシェリ"
- 
+
+ QGH:0 "青海"
+ QGH_DEF:0 "青海"
+ QGH_ADJ:0 "青海"
+
  QIN:0 "青島"
  QIN_DEF:0 "青島"
  QIN_ADJ:0 "青島"
@@ -1151,6 +1167,10 @@
  SCH:0 "四川"
  SCH_DEF:0 "四川"
  SCH_ADJ:0 "四川"
+ 
+ SHD:0 "山東"
+ SHD_DEF:0 "山東"
+ SHD_ADJ:0 "山東"
  
  SIN:0 "シンガポール"
  SIN_DEF:0 "シンガポール"
@@ -1179,6 +1199,10 @@
  ZHI:0 "直隷"
  ZHI_DEF:0 "直隷"
  ZHI_ADJ:0 "直隷"
+ 
+ ZJG:0 "浙江"
+ ZJG_DEF:0 "浙江"
+ ZJG_ADJ:0 "浙江"
  
 #ヨーロッパ
  ADR:0 "アンドラ"

@@ -1,25 +1,34 @@
+
 state={
 	id=890
 	name="STATE_890"
-	provinces={
-		1976 2006 4167 4256 4295 5092 7301 7406 7418 10257 12713 
-	}
-	history = {
+
+	history={
 		victory_points = {
 			4256 2 
 		}
-		owner = QIN
-		add_core_of = QIN
+		victory_points = {
+			6999 20 
+		}
+		victory_points = {
+			11865 1 
+		}
+		owner = XSM
+		add_core_of = XSM
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
+
 		}
 		1912.2.12 = {
-			owner = CHI
-			controller = CHI
 			add_core_of = CHI
-			remove_core_of = QIN
+
 		}
+
+	}
+
+	provinces={
+		1893 1976 2006 2030 2091 4041 4141 4167 4256 4295 4431 5048 5092 6999 7240 7256 7301 7406 7418 8026 10144 10257 10304 10822 11865 12274 12713 12767 
 	}
 	manpower=3953100
 	buildings_max_level_factor=1.000

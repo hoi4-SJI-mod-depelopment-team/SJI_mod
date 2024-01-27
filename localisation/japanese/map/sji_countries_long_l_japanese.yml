@@ -4,9 +4,6 @@
  AFG_kingdom:0 "アフガニスタン王国"
  AFG_kingdom_DEF:0 "アフガニスタン王国"
 
- ASR_emirate:0 "アシール首長国"
- ASR_emirate_DEF:0 "アシール首長国"
- 
  BHU_kingdom:0 "ブータン王国"
  BHU_kingdom_DEF:0 "ブータン王国"
 
@@ -14,6 +11,9 @@
  CHI_minguo_DEF:0 "中華民国"
  CHI_rate_state:0 "中華レーテ国"
  CHI_rate_state_DEF:0 "中華レーテ国"
+ CHI_nation:0 "中国国民国"
+ CHI_nation_DEF:0 "中国国民国"
+
  
  NEP_kingodom:0 "ネパール王国"
  NEP_kingodom_DEF:0 "ネパール王国" 
@@ -46,14 +46,17 @@
  LUX_grand_duchy:0 "ルクセンブルク大公国"
  LUX_grand_duchy_DEF:0 "ルクセンブルク大公国"
 
- NTL_federal_republic:0 "ネーデルランド連邦共和国"
- NTL_federal_republic_DEF:0 "ネーデルランド連邦共和国"
+ NTL_kingdom:0 "ネーデルランド王国"
+ NTL_kingdom_DEF:0 "ネーデルランド王国"
 
  NOR_kingdom:0 "ノルウェー王国"
  NOR_kingdom_DEF:0 "ノルウェー王国"
 
  SER_principality:0 "セルビア公国"
  SER_principality_DEF:0 "セルビア公国"
+
+ SOV_democratic_republic_union:0 "ソビエト民主主義共和国連邦"
+ SOV_democratic_republic_union_DEF:0 "ソビエト民主主義共和国連邦"
 
  SWE_kingdom:0 "スウェーデン王国"
  SWE_kingdom_DEF:0 "スウェーデン王国"
@@ -120,6 +123,12 @@
 #アメリカ諸州
 ##追加国家
 #アジア
+ ASR_emirate:0 "アシール首長国"
+ ASR_emirate_DEF:0 "アシール首長国"
+ 
+ HJZ_kingdom:0 "ヒジャーズ王国"
+ HJZ_kingdom_DEF:0 "ヒジャーズ王国"
+ 
  ottoman_empire:0 "オスマン帝国"
  ottoman_empire_DEF:0 "オスマン帝国"
  

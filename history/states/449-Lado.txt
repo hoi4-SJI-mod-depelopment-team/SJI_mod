@@ -14,9 +14,8 @@ state={
 			2096 1
 		}
 		1910.6.10 = {
-			owner = ENG
-			controller = ENG
-			remove_core_of = COG
+			owner = SSD
+			add_core_of = SSD
 			add_core_of = SUD
 		}
 	}

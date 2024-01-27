@@ -9,7 +9,8 @@ state={
 		victory_points = {
 			12963 1 
 		}
-		owner = ENG
+		owner = BEA
+		add_core_of = BEA
 		add_core_of = BOT
 		buildings = {
 			infrastructure = 1

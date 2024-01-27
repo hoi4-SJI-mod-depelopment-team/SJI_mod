@@ -1,11 +1,23 @@
 #アジア
  ASR = "countries/Asia.txt"	#アシール
+ FJN = "countries/Asia.txt"	#福建
+ GND = "countries/Asia.txt"	#広東
+ GZH = "countries/Asia.txt"	#貴州
  HIL = "countries/Asia.txt"	#ハーイル
  HJZ = "countries/Asia.txt"	#ヒジャーズ
+ HNN = "countries/Asia.txt"	#湖南
  INC = "countries/Asia.txt"	#インドシナ
+ KWB = "countries/Asia.txt"	#川辺
  NAJ = "countries/Asia.txt"	#ナジュド
+ NGX = "countries/Asia.txt"	#寧夏
+ NOC = "countries/Asia.txt"	#国民国
  OTT = "countries/Asia.txt"	#オスマン
+ SCH = "countries/Asia.txt"	#四川
+ SHD = "countries/Asia.txt"	#山東
+ QGH = "countries/Asia.txt"	#青海
  TLS = "countries/Asia.txt"	#東ティモール
+ WHW = "countries/Asia.txt"	#威海衛
+ ZJG = "countries/Asia.txt"	#浙江
 
 #アフリカ
  BEA = "countries/Africa.txt"	#イギリス領東アフリカ
@@ -15,10 +27,11 @@
  SSD = "countries/Africa.txt"	#南スーダン
  TPT = "countries/Africa.txt"	#トリポリタニア
  WAF = "countries/Africa.txt"	#西アフリカ
+ WLB = "countries/Africa.txt"	#ウォルビスベイ
 
 #ヨーロッパ
- KPU = "countries/Europa.txt"	#カルパトウクライナ
- KRK = "countries/Europa.txt"	#クラクフ
+ KPU = "countries/Europe.txt"	#カルパトウクライナ
+ KRK = "countries/Europe.txt"	#クラクフ
 
 #アメリカ大陸
 #大洋州

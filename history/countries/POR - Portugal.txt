@@ -1,2 +1,23 @@
 ﻿capital = 112
-set_cosmetic_tag = COUNTRY_ITAbySRDandTTS
+set_cosmetic_tag = POR_republic
+
+set_autonomy = {
+	target = ANG
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = GNB
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = MZB
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = TLS
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = WHW
+	autonomy_state = leased_territory
+}

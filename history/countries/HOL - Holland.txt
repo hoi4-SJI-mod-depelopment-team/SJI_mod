@@ -1,2 +1,23 @@
 ﻿capital = 7
-set_cosmetic_tag = NTL_federal_republic
+set_cosmetic_tag = NTL_kingdom
+
+set_autonomy = {
+	target = CRC
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = INS
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = SUR
+	autonomy_state = colony
+}
+	set_autonomy = {
+	target = WLB
+	autonomy_state = colony
+}
+	set_autonomy = {
+	target = PNG
+	autonomy_state = mandate_territory
+}

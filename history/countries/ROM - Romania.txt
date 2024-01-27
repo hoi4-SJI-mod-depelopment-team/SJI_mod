@@ -1,1 +1,2 @@
 ﻿capital = 46
+set_cosmetic_tag = ROM_principality

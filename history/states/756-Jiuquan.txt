@@ -6,7 +6,7 @@ state={
 		victory_points = {
 			11842 10 
 		}
-		owner = OTT
+		owner = BUL
 		add_core_of = TUR
 		add_core_of = BUL
 		buildings = {

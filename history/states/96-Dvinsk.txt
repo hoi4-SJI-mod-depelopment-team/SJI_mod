@@ -8,7 +8,7 @@ state={
 			310 1 
 		}
 		owner = SOV
-		add_core_of = SOV
+		add_core_of =SOV
 		add_core_of = LAT
 		buildings = {
 			infrastructure = 2

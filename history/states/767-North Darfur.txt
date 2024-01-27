@@ -12,8 +12,8 @@ state={
 			infrastructure = 0
 		}
 		1912.10.18 = {
-			owner = ENG
-			controller = ENG
+			owner = BEA
+		 	add_core_of=BEA
 			remove_core_of = LBA
 		}
 	}

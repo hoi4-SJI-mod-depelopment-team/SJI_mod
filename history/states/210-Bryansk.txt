@@ -6,6 +6,7 @@ state={
 	provinces={ 207 248 354 3310 6242 9254 9331 11234 }
 	history={
 		owner=SOV
+		add_core_of = POL
 		add_core_of=SOV
 		buildings={
 			infrastructure = 2

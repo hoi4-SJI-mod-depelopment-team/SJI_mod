@@ -1,2 +1,15 @@
 ﻿capital = 16
-set_cosmetic_tag = COUNTRY_ITAbySRDandTTS
+set_cosmetic_tag = FRA_republic
+
+set_autonomy = {
+	target = EQA
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = MAD
+	autonomy_state = colony
+}
+set_autonomy = {
+	target = NMB
+	autonomy_state = mandate_territory
+}

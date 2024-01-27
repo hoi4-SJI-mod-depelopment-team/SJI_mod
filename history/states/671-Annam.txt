@@ -10,7 +10,8 @@ state={
 		victory_points = {
 			4075 2 
 		}
-		owner = FRA
+		owner = INC
+		add_core_of = INC
 		add_core_of = VIN
 		buildings = {
 			infrastructure = 2
