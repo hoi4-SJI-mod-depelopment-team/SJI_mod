@@ -10,15 +10,12 @@ state={
 	}
 	history={
 		victory_points={ 12738 3 }
-		owner=NIC
+		owner=ELS
+		add_core_of=ELS
 		add_core_of=NIC
 		buildings={
 			infrastructure = 2
 			12738={ naval_base=1  }
-		}
-		1912.10.1 = {
-			owner = USA
-			controller = USA
 		}
 	}
 }

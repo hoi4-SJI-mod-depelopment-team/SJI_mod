@@ -10,7 +10,8 @@ state={
 	}
 	history={
 		victory_points={ 1836 1 }
-		owner=USA
+		owner=USB
+		add_core_of=USB
 		add_core_of=USA
 		buildings={
 			infrastructure = 2

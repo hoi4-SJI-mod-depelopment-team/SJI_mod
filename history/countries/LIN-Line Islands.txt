@@ -1,2 +1,2 @@
 
-set_cosmetic_tag = COUNTRY_DEN
+set_cosmetic_tag = COUNTRY_NOR

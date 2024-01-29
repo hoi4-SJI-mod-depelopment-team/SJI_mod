@@ -24,17 +24,25 @@
  CYR = "countries/Africa.txt"	#キレナイカ
  EAF = "countries/Africa.txt"	#東アフリカ
  EQA = "countries/Africa.txt"	#赤道アフリカ
+ NCM = "countries/Africa.txt"	#ノイカメルーン
+ SCM = "countries/Africa.txt"	#南カメルーン
  SSD = "countries/Africa.txt"	#南スーダン
  TPT = "countries/Africa.txt"	#トリポリタニア
  WAF = "countries/Africa.txt"	#西アフリカ
  WLB = "countries/Africa.txt"	#ウォルビスベイ
+ WTG = "countries/Africa.txt"	#西トーゴランド
 
 #ヨーロッパ
+ BLT = "countries/Europe.txt"	#バルト
  KPU = "countries/Europe.txt"	#カルパトウクライナ
  KRK = "countries/Europe.txt"	#クラクフ
+ MEM = "countries/Europe.txt"	#メーメル
 
 #アメリカ大陸
+ TEX = "countries/Europe.txt"	#テキサス
 #大洋州
+ GIL = "countries/Oceania.txt"	#ギルバート諸島
  LIN = "countries/Oceania.txt"	#ライン諸島
+ NAU = "countries/Oceania.txt"	#ナウル
  NGU = "countries/Oceania.txt"	#ニューギニア
  NSL = "countries/Oceania.txt"	#北ソロモン諸島

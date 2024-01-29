@@ -6,10 +6,10 @@ state={
 	provinces={ 1326 12178 12190 12206 13001 }
 
 	history={
-		owner=POR
+		owner=TLS
 
 		1936.1.1={ 
-			owner=POR
+			add_core_of=TLS
 			add_core_of=POR
 			buildings={
 				infrastructure = 2

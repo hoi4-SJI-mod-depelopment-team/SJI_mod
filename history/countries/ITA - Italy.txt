@@ -22,6 +22,10 @@ set_autonomy = {
 	autonomy_state = mandate_territory
 }
 set_autonomy = {
+	target = SAM
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
 	target = TPT
 	autonomy_state = colony
 }

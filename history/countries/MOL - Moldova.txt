@@ -1,1 +1,3 @@
 ﻿capital = 78
+
+set_cosmetic_tag = MOL_SOV_republic

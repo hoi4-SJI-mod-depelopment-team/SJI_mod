@@ -26,10 +26,14 @@
  GERbyPRE_reich_government_in_exile_DEF:0 "ドイツ帝国亡命政府"
  GERbyPRE_reich_government_in_exile_ADJ:0 "ドイツ"
 
+ MEMEL_free_city:0 "メーメル自由都市"
+ MEMEL_free_city_DEF:0 "メーメル自由都市"
+ MEMEL_free_city_ADJ:0 "メーメル"
+
 #新大陸
- AMERICA_united_states_48:0 "アメリカ合衆国"
- AMERICA_united_states_48_DEF:0 "アメリカ合衆国"
- AMERICA_united_states_48_ADJ:0 "アメリカ"
+ AMERICA_republic:0 "アメリカ共和国"
+ AMERICA_republic_DEF:0 "アメリカ共和国"
+ AMERICA_republic_ADJ:0 "アメリカ"
  
 ##連合国家
 #アジア
@@ -42,10 +46,6 @@
  AUSandHUN_council_republic_DEF:0 "オーストリア及びハンガリー評議会共和国"
  AUSandHUN_council_republic_ADJ:0 "オーストリア・ハンガリー"
 
- FIN-EST_SOV_republic:0 "フィンランド＝エストニア・ソビエト共和国"
- FIN-EST_SOV_republic_DEF:0 "フィンランド＝エストニア・ソビエト共和国"
- FIN-EST_SOV_republicm_ADJ:0 "フィンランド＝エストニア"
- 
  GBRandIREbyENG_united_kingdom:0 "グレートブリテン及びアイルランド連合王国"
  GBRandIREbyENG_united_kingdom_DEF:0 "グレートブリテン及びアイルランド連合王国"
  GBRandIREbyENG_united_kingdom_ADJ:0 "イギリス"
@@ -54,9 +54,17 @@
  ITAbySRDandTTS_empire_DEF:0 "イタリア帝国"
  ITAbySRDandTTS_empire_ADJ:0 "イタリア"
 
+ LATandEST_united_duchy:0 "ラトビア及びエストニア連合公国"
+ LATandEST_united_duchy_DEF:0 "ラトビア及びエストニア連合公国"
+ LATandEST_united_duchy_ADJ:0 "ラトビア及びエストニア"
+
  POLandLIT_rate_state:0 "ポーランド＝リトアニア・レーテ国"
  POLandLIT_rate_state_DEF:0 "ポーランド＝リトアニア・レーテ国"
  POLandLIT_rate_state_ADJ:0 "ポーランド＝リトアニア"
+
+ SERandMNT_principality:0 "セルビア＝モンテネグロ公国"
+ SERandMNT_principality_DEF:0 "セルビア＝モンテネグロ公国"
+ SERandMNT_principality_ADJ:0 "セルビア＝モンテネグロ"
 
 #中米
  CENTRALAMERICA_federal_republic:0 "中央アメリカ連邦共和国"

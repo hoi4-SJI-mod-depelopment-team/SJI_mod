@@ -6,6 +6,6 @@ set_autonomy = {
 	autonomy_state = junior_partner_state
 }
 set_autonomy = {
-	target = LIN
+	target = MOR
 	autonomy_state = colony
 }

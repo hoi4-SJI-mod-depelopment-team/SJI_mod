@@ -1,1 +1,2 @@
 ﻿capital = 231 #Tbilisi
+set_cosmetic_tag = GEO_SOV_republic

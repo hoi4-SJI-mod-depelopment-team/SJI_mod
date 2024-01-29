@@ -3,7 +3,8 @@ state={
 	id=584
 	name="STATE_584"
 	history={
-		owner = SOV
+		owner = TMS
+		add_core_of = TMS
 		add_core_of = TRK
 		victory_points = {
 			12333 1

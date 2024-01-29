@@ -11,7 +11,7 @@ set_autonomy = {
 	autonomy_state = colony
 }
 set_autonomy = {
-	target = CAN
+	target = USA
 	autonomy_state = colony
 }
 set_autonomy = {
@@ -45,6 +45,10 @@ set_autonomy = {
 set_autonomy = {
 	target = NGA
 	autonomy_state = colony_and_protectorate
+}
+set_autonomy = {
+	target = SCM
+	autonomy_state = mandate_territory
 }
 set_autonomy = {
 	target = SIE

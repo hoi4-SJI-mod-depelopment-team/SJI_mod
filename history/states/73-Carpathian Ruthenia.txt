@@ -1,23 +1,31 @@
+
 state={
 	id=73
 	name="STATE_73"
-        resources = { 
-                   oil = 35.00
-        }
-	manpower = 854300
-	state_category=rural
-	provinces={ 3548 6571 6604 9563 11536 12894 }
+	resources={
+		oil=35.000
+	}
+
 	history={
-	    victory_points = {
+		victory_points = {
 			3548 1 
 		}
 		owner = KPU
-		#add_core_of=CZE
-		add_core_of=SLO
-		add_core_of=UKR
-		add_claim_by=KPU
-		buildings={
+		add_core_of = SLO
+		add_core_of = UKR
+		add_claim_by = KPU
+		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
+
+	provinces={
+		3548 3565 6571 6586 6604 9563 11536 11691 
+	}
+	manpower=854300
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
 }

@@ -4,7 +4,8 @@ state={
 	name="STATE_814"
 
 	history={
-		owner = JAP
+		owner = NCM
+		add_core_of = NCM
 		add_core_of = CMR
 		add_core_of = CAR
 		

@@ -9,7 +9,8 @@ state={
 		aluminium=14
 	}
 	history={
-		owner=CAN
+		owner=USA
+		add_core_of=USA
 		add_core_of=CAN
 		buildings={
 			infrastructure = 1

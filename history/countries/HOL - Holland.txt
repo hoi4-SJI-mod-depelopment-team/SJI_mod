@@ -1,13 +1,21 @@
 ﻿capital = 7
-set_cosmetic_tag = NTL_kingdom
+set_cosmetic_tag = HOL_kingdom
 
 set_autonomy = {
 	target = CRC
 	autonomy_state = colony
 }
 set_autonomy = {
+target = GIL
+autonomy_state = colony
+}
+set_autonomy = {
 	target = INS
 	autonomy_state = colony
+}
+set_autonomy = {
+target = PNG
+autonomy_state = mandate_territory
 }
 set_autonomy = {
 	target = SUR
@@ -17,7 +25,7 @@ set_autonomy = {
 	target = WLB
 	autonomy_state = colony
 }
-	set_autonomy = {
-	target = PNG
+set_autonomy = {
+	target = WTG
 	autonomy_state = mandate_territory
 }

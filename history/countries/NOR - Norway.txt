@@ -1,2 +1,7 @@
 ﻿capital = 110
 set_cosmetic_tag = NOR_kingdom
+
+set_autonomy = {
+	target = LIN
+	autonomy_state = colony
+}

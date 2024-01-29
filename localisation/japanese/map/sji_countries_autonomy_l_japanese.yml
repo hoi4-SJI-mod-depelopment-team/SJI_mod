@@ -79,6 +79,10 @@
  MAD_colony_DEF:0 "$OVERLORDADJ$領マダガスカル植民地"
  MAD_colony_ADJ:0 "$OVERLORDADJ$領マダガスカル"
 
+ MOR_colony:0 "$OVERLORDADJ$領モロッコ植民地"
+ MOR_colony_DEF:0 "$OVERLORDADJ$領モロッコ植民地"
+ MOR_colony_ADJ:0 "$OVERLORDADJ$領モロッコ"
+
  MZB_colony:0 "$OVERLORDADJ$領モザンビーク植民地"
  MZB_colony_DEF:0 "$OVERLORDADJ$領モザンビーク植民地"
  MZB_colony_ADJ:0 "$OVERLORDADJ$領モザンビーク"
@@ -91,6 +95,10 @@
  NMB_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領南西アフリカ"
  NMB_mandate_territory_ADJ:0 "$OVERLORDADJ$領南西アフリカ"
 
+ RIF_colony:0 "$OVERLORDADJ$領モロッコ植民地"
+ RIF_colony_DEF:0 "$OVERLORDADJ$領モロッコ植民地"
+ RIF_colony_ADJ:0 "$OVERLORDADJ$領モロッコ"
+
  SIE_colony_and_protectorate:0 "$OVERLORDADJ$領シエラレオネ植民地及び保護領"
  SIE_colony_and_protectorate_DEF:0 "$OVERLORDADJ$領シエラレオネ植民地及び保護領"
  SIE_colony_and_protectorate_ADJ:0 "$OVERLORDADJ$領シエラレオネ"
@@ -99,14 +107,22 @@
  TOG_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領トーゴラント"
  TOG_mandate_territory_ADJ:0 "$OVERLORDADJ$領トーゴラント"
 
+ TUN_colony:0 "$OVERLORDADJ$領チュニジア植民地"
+ TUN_colony_DEF:0 "$OVERLORDADJ$領チュニジア植民地"
+ TUN_colony_ADJ:0 "$OVERLORDADJ$領チュニジア"
+
  WES_colony:0 "$OVERLORDADJ$領サハラ植民地"
  WES_colony_DEF:0 "$OVERLORDADJ$領サハラ植民地"
  WES_colony_ADJ:0 "$OVERLORDADJ$領サハラ"
 
 #北米
- CAN_colony:0 "$OVERLORDADJ$領北アメリカ植民地"
- CAN_colony_DEF:0 "$OVERLORDADJ$領北アメリカ植民地"
- CAN_colony_ADJ:0 "$OVERLORDADJ$領北アメリカ"
+ CAN_government_general:0 "$OVERLORDADJ$領カナダ総督府"
+ CAN_government_general_DEF:0 "$OVERLORDADJ$領カナダ総督府"
+ CAN_government_general_ADJ:0 "$OVERLORDADJ$領カナダ"
+
+ USA_colony:0 "$OVERLORDADJ$領北アメリカ植民地"
+ USA_colony_DEF:0 "$OVERLORDADJ$領北アメリカ植民地"
+ USA_colony_ADJ:0 "$OVERLORDADJ$領北アメリカ"
 
 #中米
  BLZ_government_general:0 "$OVERLORDADJ$領ベリーズ総督府"
@@ -135,17 +151,17 @@
  SUR_colony_ADJ:0 "$OVERLORDADJ$領ギアナ"
 
 #オセアニア
- AST_colony:0 "$OVERLORDADJ$領オーストララシア植民地"
- AST_colony_DEF:0 "$OVERLORDADJ$領オーストララシア植民地"
- AST_colony_ADJ:0 "$OVERLORDADJ$領オーストララシア"
+ AST_government_general:0 "$OVERLORDADJ$領オーストララシア総督府"
+ AST_government_general_DEF:0 "$OVERLORDADJ$領オーストララシア総督府"
+ AST_government_general_ADJ:0 "$OVERLORDADJ$領オーストララシア"
 
  FIJ_colony:0 "$OVERLORDADJ$領フィジー植民地"
  FIJ_colony_DEF:0 "$OVERLORDADJ$領フィジー植民地"
  FIJ_colony_ADJ:0 "$OVERLORDADJ$領フィジー"
 
- FSM_mandate_territory:0 "$OVERLORDADJ$委任統治領ニューギニア残党"
- FSM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領ニューギニア残党"
- FSM_mandate_territory_ADJ:0 "$OVERLORDADJ$領ニューギニア"
+ FSM_mandate_territory:0 "$OVERLORDADJ$委任統治領南洋諸島"
+ FSM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領南洋諸島"
+ FSM_mandate_territory_ADJ:0 "$OVERLORDADJ$領南洋諸島"
 
  GUM_government_general:0 "$OVERLORDADJ$領サイパン総督府"
  GUM_government_general_DEF:0 "$OVERLORDADJ$領サイパン総督府"
@@ -158,6 +174,10 @@
  PNG_mandate_territory:0 "$OVERLORDADJ$委任統治領ビスマルク諸島"
  PNG_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領ビスマルク諸島"
  PNG_mandate_territory_ADJ:0 "$OVERLORDADJ$領ビスマルク諸島"
+
+ SAM_mandate_territory:0 "$OVERLORDADJ$委任統治領サモア"
+ SAM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領サモア"
+ SAM_mandate_territory_ADJ:0 "$OVERLORDADJ$領サモア"
 
  SOL_colony:0 "$OVERLORDADJ$領ソロモン諸島植民地"
  SOL_colony_DEF:0 "$OVERLORDADJ$領ソロモン諸島植民地"
@@ -195,6 +215,14 @@
  EQA_colony_DEF:0 "$OVERLORDADJ$領赤道アフリカ植民地"
  EQA_colony_ADJ:0 "$OVERLORDADJ$領赤道アフリカ"
 
+ NCM_mandate_territory:0 "$OVERLORDADJ$委任統治領新カメルーン"
+ NCM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領新カメルーン
+ NCM_mandate_territory_ADJ:0 "$OVERLORDADJ$領新カメルーン"
+
+ SCM_mandate_territory:0 "$OVERLORDADJ$委任統治領カメルーン"
+ SCM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領カメルーン"
+ SCM_mandate_territory_ADJ:0 "$OVERLORDADJ$領カメルーン"
+
  SSD_autonomous_region:0 "$OVERLORDADJ$領南スーダン自治区"
  SSD_autonomous_region_DEF:0 "$OVERLORDADJ$領南スーダン自治区"
  SSD_autonomous_region_ADJ:0 "$OVERLORDADJ$領南スーダン"
@@ -211,10 +239,18 @@
  WLB_colony_DEF:0 "$OVERLORDADJ$領ウォルビスベイ植民地"
  WLB_colony_ADJ:0 "$OVERLORDADJ$領ウォルビスベイ"
 
+ WTG_mandate_territory:0 "$OVERLORDADJ$委任統治領トーゴランド"
+ WTG_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領トーゴランド"
+ WTG_mandate_territory_ADJ:0 "$OVERLORDADJ$領トーゴランド"
+
 #北米
 #中米
 #南米
 #オセアニア
+ GIL_colony:0 "$OVERLORDADJ$領ギルバート諸島植民地"
+ GIL_colony_DEF:0 "$OVERLORDADJ$領ギルバート諸島植民地"
+ GIL_colony_ADJ:0 "$OVERLORDADJ$領ギルバート諸島"
+
  LIN_colony:0 "$OVERLORDADJ$領ライン諸島及びフェニックス諸島植民地"
  LIN_colony_DEF:0 "$OVERLORDADJ$領ライン諸島及びフェニックス諸島植民地"
  LIN_colony_ADJ:0 "$OVERLORDADJ$領ライン諸島及びフェニックス諸島"

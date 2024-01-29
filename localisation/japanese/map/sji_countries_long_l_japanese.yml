@@ -14,7 +14,15 @@
  CHI_nation:0 "中国国民国"
  CHI_nation_DEF:0 "中国国民国"
 
- 
+ GEO_SOV_republic:0 "グルジア・ソビエト民主共和国"
+ GEO_SOV_republic_DEF:0 "グルジア・ソビエト民主共和国"
+
+ KAZ_SOV_republic:0 "カザフ・ソビエト民主共和国"
+ KAZ_SOV_republic_DEF:0 "カザフ・ソビエト民主共和国"
+
+ KYR_SOV_republic:0 "キルギス・ソビエト民主共和国"
+ KYR_SOV_republic_DEF:0 "キルギス・ソビエト民主共和国"
+
  NEP_kingodom:0 "ネパール王国"
  NEP_kingodom_DEF:0 "ネパール王国" 
 
@@ -23,6 +31,12 @@
 
  SIA_kingodom:0 "シャムル王国"
  SIA_kingodom_DEF:0 "シャム王国" 
+
+ TAJ_SOV_republic:0 "タジク・ソビエト民主共和国"
+ TAJ_SOV_republic_DEF:0 "タジク・ソビエト民主共和国"
+
+ TMS_SOV_republic:0 "トルクメン・ソビエト民主共和国"
+ TMS_SOV_republic_DEF:0 "トルクメン・ソビエト民主共和国"
 
 #ヨーロッパ
  ALB_kingdom:0 "アルバニア王国"
@@ -37,6 +51,9 @@
  CZE_AUSandHUN_council_republic:0 "チェコスロヴァキア評議会共和国"
  CZE_AUSandHUN_council_republic_DEF:0 "チェコスロヴァキア評議会共和国"
 
+ FIN_democratic_republic:0 "フィンランド民主共和国"
+ FIN_democratic_republic_DEF:0 "フィンランド民主共和国"
+
  GER_rate_state:0 "ドイツ・レーテ国"
  GER_rate_state_DEF:0 "ドイツ・レーテ国"
 
@@ -46,8 +63,14 @@
  LUX_grand_duchy:0 "ルクセンブルク大公国"
  LUX_grand_duchy_DEF:0 "ルクセンブルク大公国"
 
- NTL_kingdom:0 "ネーデルランド王国"
- NTL_kingdom_DEF:0 "ネーデルランド王国"
+ HOL_kingdom:0 "オランダ王国"
+ HOL_kingdom_DEF:0 "オランダ王国"
+
+ KAR_SOV_republic:0 "カレロ＝フィン・ソビエト民主共和国"
+ KAR_SOV_republic_DEF:0 "カレロ＝フィン・ソビエト民主共和国"
+
+ MOL_SOV_republic:0 "ベッサラビア・ソビエト民主共和国"
+ MOL_SOV_republic_DEF:0 "ベッサラビア・ソビエト民主共和国"
 
  NOR_kingdom:0 "ノルウェー王国"
  NOR_kingdom_DEF:0 "ノルウェー王国"
@@ -63,6 +86,9 @@
 
  TRA_AUSandHUN_council_autonomous_prefectur:0 "トランシルヴァニア評議会自治州"
  TRA_AUSandHUN_council_autonomous_prefectur_DEF:0 "トランシルヴァニア評議会自治州"
+
+ UKR_SOV_republic:0 "ウクライナ・ソビエト民主共和国"
+ UKR_SOV_republic_DEF:0 "ウクライナ・ソビエト民主共和国"
 
 #アフリカ
  
@@ -102,6 +128,9 @@
 
  PRU_republic:0 "ペルー共和国"
  PRU_republic_DEF:0 "ペルー共和国"
+
+ TEX_republic:0 "テキサス共和国"
+ TEX_republic_DEF:0 "テキサス共和国"
 
  VEN_republic:0 "ヴェネズエラ共和国"
  VEN_republic_DEF:0 "ヴェネズエラ共和国"

@@ -1,2 +1,3 @@
 ﻿capital = 202 #Kiev
 
+set_cosmetic_tag = UKR_SOV_republic

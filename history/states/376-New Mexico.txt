@@ -9,7 +9,8 @@ state={
 		aluminium=37
 	}
 	history = {
-		owner = USA
+		owner = USB
+		add_core_of=USB
 		add_core_of = MEX
 		buildings={
 			infrastructure = 2

@@ -9,7 +9,7 @@ state={
 	}
 	history={
 		victory_points={ 7260 3 }
-		owner=ENG
+		owner=RAJ
 		add_core_of = SRL
 		buildings={
 			infrastructure = 2

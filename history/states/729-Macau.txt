@@ -6,14 +6,14 @@ state={
 	provinces={ 4189 }
 	history={
 		victory_points={ 4189 1 }
-		owner = CHI
+		owner = JAP
 		add_core_of=GXC
 		buildings={
 			infrastructure = 2
 			4189={ naval_base=1 }
 		}
 		1912.2.12 = {
-			add_core_of = CHI
+			add_core_of = JAP
 		}
 	}
 }

@@ -1,2 +1,2 @@
 ﻿capital = 295
-set_cosmetic_tag =  COUNTRY_BEL
+set_cosmetic_tag =  COG_BEL

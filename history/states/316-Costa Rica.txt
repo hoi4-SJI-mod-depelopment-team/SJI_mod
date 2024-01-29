@@ -9,7 +9,8 @@ state={
 	}
 	history={
 		victory_points={ 13087 3 }
-		owner=COS
+		owner=ELS
+		add_core_of=ELS
 		add_core_of=COS
 		buildings={
 			infrastructure = 2

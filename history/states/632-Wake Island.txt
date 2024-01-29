@@ -6,7 +6,7 @@ state={
 	provinces={ 13047 }
 	history={
 		victory_points={ 13047 1 }
-		owner=USA	
+		owner=JAP	
 		buildings={
 			infrastructure = 1
 			13047={ naval_base=1 }

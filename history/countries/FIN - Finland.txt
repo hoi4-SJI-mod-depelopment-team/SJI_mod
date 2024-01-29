@@ -1,2 +1,2 @@
 ﻿capital = 111
-set_cosmetic_tag =  FIN-EST_SOV_republic
+set_cosmetic_tag =  FIN_democratic_republic

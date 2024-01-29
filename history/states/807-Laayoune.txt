@@ -5,15 +5,12 @@ state={
 		8111
 	}
 	history={
-		owner = MOR
+		owner = RIF
+		add_core_of=RIF
 		add_core_of = MOR
 		add_claim_by = SPR
 		buildings = {
 			infrastructure = 1
-		}
-		1912.3.30 = {
-			owner = SPR
-			controller = SPR
 		}
 	}
 	manpower=12000

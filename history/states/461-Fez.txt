@@ -12,8 +12,7 @@ state={
 		victory_points = {
 			11987 5
 		}
-		owner = WAF
-		add_core_of = WAF
+		owner = MOR
 		add_core_of = MOR
 		buildings = {
 			infrastructure = 2

@@ -9,7 +9,7 @@ state={
 		victory_points = {
 			3698 1
 		}
-		owner = SOV
+		owner = GEO
 		add_core_of = SOV
 		add_claim_by = GEO
 		buildings = {

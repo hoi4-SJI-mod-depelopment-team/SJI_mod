@@ -6,7 +6,7 @@ state={
 	provinces={ 10321 12251 }
 
 	history={
-		owner=ENG
+		owner=RAJ
 
 		buildings={
 			infrastructure = 2

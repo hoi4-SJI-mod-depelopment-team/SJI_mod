@@ -4,10 +4,14 @@ set_cosmetic_tag = GREATERJAPAN_empire
 
 set_autonomy = {
 	target = AST
-	autonomy_state = colony
+	autonomy_state = government_general
 }
 set_autonomy = {
 	target = BLZ
+	autonomy_state = government_general
+}
+set_autonomy = {
+	target = CAN
 	autonomy_state = government_general
 }
 set_autonomy = {
@@ -39,10 +43,22 @@ set_autonomy = {
 	autonomy_state = government_general
 }
 set_autonomy = {
+	target = NCM
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
 	target = NGU
 	autonomy_state = mandate_territory
 }
 set_autonomy = {
+	target = PHI
+	autonomy_state = puppet
+}
+set_autonomy = {
 	target = RAJ
 	autonomy_state = government_general
+}
+set_autonomy = {
+	target = TEX
+	autonomy_state = puppet
 }

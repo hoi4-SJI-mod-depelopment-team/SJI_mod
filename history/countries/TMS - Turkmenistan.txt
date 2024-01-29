@@ -1,1 +1,3 @@
 ﻿capital = 584
+
+set_cosmetic_tag = TMS_SOV_republic

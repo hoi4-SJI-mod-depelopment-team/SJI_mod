@@ -11,7 +11,8 @@ state={
 	}
 	history={
 		victory_points={ 853 3 }
-		owner = USA
+		owner = USB
+		add_core_of=USB
 		add_core_of = MEX
 		buildings = {
 			infrastructure = 2

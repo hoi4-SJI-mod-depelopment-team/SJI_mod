@@ -959,3 +959,39 @@ NSL = {
 	color = rgb { 110 108 20 }
 	color_ui = rgb { 110 108 20 }
 }
+QGH = {
+	color = rgb { 207 155 86 }
+	color_ui = rgb { 207 155 86 }
+}
+NGX = {
+	color = rgb { 185 169 104 }
+	color_ui = rgb { 185 169 104 }
+}
+KWB = {
+	color = rgb { 139 217 226 }
+	color_ui = rgb { 139 217 226 }
+}
+NOC = {
+	color = rgb { 251 174 47 }
+	color_ui = rgb { 251 174 47 }
+}
+GZH = {	
+	color = rgb { 68 68 68 }
+	color_ui = rgb { 68 68 68 }
+}
+HNN = {	
+	color = rgb { 80 135 224 }
+	color_ui = rgb { 80 135 224 }
+}
+TEX = {	
+	color = rgb { 157 3 40 }
+	color_ui = rgb { 157 3 40 }
+}
+MEM = {	
+	color = rgb { 92 57 0 }
+	color_ui = rgb { 92 57 0 }
+}
+BLT = {	
+	color = rgb { 174 177 178 }
+	color_ui = rgb { 174 177 178 }
+}
