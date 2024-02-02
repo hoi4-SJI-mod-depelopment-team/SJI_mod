@@ -18,6 +18,10 @@ set_autonomy = {
 	autonomy_state = mandate_territory
 }
 set_autonomy = {
+	target = EQA
+	autonomy_state = mandate_territory
+}
+set_autonomy = {
 	target = NSL
 	autonomy_state = mandate_territory
 }

@@ -1,10 +1,6 @@
 
 set_cosmetic_tag = ottoman_empire
-
 set_autonomy = {
-	target = RIF
-	autonomy_state = colony
-}set_autonomy = {
 	target = TUN
 	autonomy_state = colony
 }

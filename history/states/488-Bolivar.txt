@@ -5,10 +5,11 @@ state={
 	state_category=pastoral
 	provinces={ 1981 5317 7915 8050 10736 10849 10879 }
 	history={
-		owner=VEN
+		owner=COL
+		add_core_of=COL
 		add_core_of=VEN
 		1936.1.1={ 
-			owner=VEN
+			
 			add_core_of=VEN
 			buildings={
 				infrastructure = 1

@@ -52,7 +52,7 @@ set_autonomy = {
 }
 set_autonomy = {
 	target = PHI
-	autonomy_state = puppet
+	autonomy_state = government_general
 }
 set_autonomy = {
 	target = RAJ

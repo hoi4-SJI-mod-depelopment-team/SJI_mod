@@ -9,7 +9,8 @@ state={
 	}
 	history={
 		victory_points={ 1944 1 }
-		owner=VEN
+		owner=COL
+		add_core_of=COL
 		add_core_of=VEN
 		buildings={
 			infrastructure = 2

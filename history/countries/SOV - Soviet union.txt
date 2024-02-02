@@ -27,6 +27,10 @@ set_autonomy = {
 	autonomy_state = autonomous_republic
 }
 set_autonomy = {
+	target = MOL
+	autonomy_state = autonomous_republic
+}
+set_autonomy = {
 	target = TAJ
 	autonomy_state = autonomous_republic
 }

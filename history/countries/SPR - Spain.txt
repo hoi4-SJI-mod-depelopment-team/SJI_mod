@@ -6,6 +6,10 @@ set_autonomy = {
 	autonomy_state = colony
 }
 set_autonomy = {
+	target = RIF
+	autonomy_state = colony
+}
+set_autonomy = {
 	target = WES
 	autonomy_state = colony
 }

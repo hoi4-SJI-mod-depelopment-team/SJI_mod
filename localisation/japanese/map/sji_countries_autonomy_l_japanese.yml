@@ -17,6 +17,10 @@
  MAN_government_general_DEF:0 "$OVERLORDADJ$領満州総督府"
  MAN_government_general_ADJ:0 "$OVERLORDADJ$領満州"
 
+ PHI_government_general:0 "$OVERLORDADJ$領フィリピン総督府"
+ PHI_government_general_DEF:0 "$OVERLORDADJ$領フィリピン総督府"
+ PHI_government_general_ADJ:0 "$OVERLORDADJ$領フィリピン"
+
  RAJ_government_general:0 "$OVERLORDADJ$領インド総督府"
  RAJ_government_general_DEF:0 "$OVERLORDADJ$領インド総督府"
  RAJ_government_general_ADJ:0 "$OVERLORDADJ$領インド"
@@ -211,9 +215,9 @@
  EAF_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領東アフリカ"
  EAF_mandate_territory_ADJ:0 "$OVERLORDADJ$領東アフリカ"
 
- EQA_colony:0 "$OVERLORDADJ$領赤道アフリカ植民地"
- EQA_colony_DEF:0 "$OVERLORDADJ$領赤道アフリカ植民地"
- EQA_colony_ADJ:0 "$OVERLORDADJ$領赤道アフリカ"
+ EQA_mandate_territory:0 "$OVERLORDADJ$委任統治領赤道アフリカ"
+ EQA_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領赤道アフリカ"
+ EQA_mandate_territory_ADJ:0 "$OVERLORDADJ$領赤道アフリカ"
 
  NCM_mandate_territory:0 "$OVERLORDADJ$委任統治領新カメルーン"
  NCM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領新カメルーン
