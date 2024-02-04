@@ -14,6 +14,7 @@
  mandate_territory:0 "委任統治領"
  joint_mandate_territory:0 "共同委任統治領"
  condominium:0 "共同統治領"
+ colonies_federation:0 "植民地連邦"
  protected_state:0 "保護国"
  protected_territory:0 "保護領"
  colony_and_protectorate:0 "植民地及び保護領"
