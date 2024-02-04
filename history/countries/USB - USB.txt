@@ -1,2 +1,4 @@
 ﻿capital = 361
 set_cosmetic_tag = AMERICA_republic
+
+give_guarantee = HOL

@@ -19,7 +19,6 @@
  protected_territory:0 "保護領"
  colony_and_protectorate:0 "植民地及び保護領"
  dominion:0 "自治領"
- government_general:0 "総督府"
  
 #同君連合
  junior_partner_state:0 "同君連合下位国"

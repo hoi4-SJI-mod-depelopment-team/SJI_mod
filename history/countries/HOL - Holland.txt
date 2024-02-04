@@ -29,3 +29,5 @@ set_autonomy = {
 	target = WTG
 	autonomy_state = mandate_territory
 }
+
+give_guarantee = USB

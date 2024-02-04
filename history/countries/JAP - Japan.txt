@@ -2,21 +2,23 @@
 
 set_cosmetic_tag = GREATERJAPAN_empire
 
+INC = {	set_country_flag = federal_flag	}
+
 set_autonomy = {
 	target = AST
-	autonomy_state = government_general
+	autonomy_state = dominion
 }
 set_autonomy = {
 	target = BLZ
-	autonomy_state = government_general
+	autonomy_state = overseas_territories
 }
 set_autonomy = {
 	target = CAN
-	autonomy_state = government_general
+	autonomy_state = dominion
 }
 set_autonomy = {
 	target = CAY
-	autonomy_state = government_general
+	autonomy_state = overseas_territories
 }
 set_autonomy = {
 	target = FSM
@@ -24,23 +26,19 @@ set_autonomy = {
 }
 set_autonomy = {
 	target = GUM
-	autonomy_state = government_general
-}
-set_autonomy = {
-	target = CHI
-	autonomy_state = government_general
+	autonomy_state = overseas_territories
 }
 set_autonomy = {
 	target = INC
-	autonomy_state = government_general
+	autonomy_state = colonies_federation
 }
 set_autonomy = {
 	target = KOR
-	autonomy_state = government_general
+	autonomy_state = overseas_territories
 }
 set_autonomy = {
 	target = MAN
-	autonomy_state = government_general
+	autonomy_state = overseas_territories
 }
 set_autonomy = {
 	target = NCM
@@ -52,13 +50,17 @@ set_autonomy = {
 }
 set_autonomy = {
 	target = PHI
-	autonomy_state = government_general
+	autonomy_state = overseas_territories
 }
 set_autonomy = {
 	target = RAJ
-	autonomy_state = government_general
+	autonomy_state = junior_partner_colony
 }
 set_autonomy = {
 	target = TEX
 	autonomy_state = puppet
 }
+
+give_guarantee = HAW
+give_guarantee = CHI
+give_guarantee = USB

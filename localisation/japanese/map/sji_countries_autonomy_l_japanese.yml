@@ -5,25 +5,25 @@
  INS_colony_DEF:0 "$OVERLORDADJ$領東インド植民地"
  INS_colony_ADJ:0 "$OVERLORDADJ$領東インド"
 
- KOR_government_general:0 "$OVERLORDADJ$領朝鮮総督府"
- KOR_government_general_DEF:0 "$OVERLORDADJ$領朝鮮総督府"
- KOR_government_general_ADJ:0 "$OVERLORDADJ$領朝鮮総督府"
+ KOR_overseas_territories:0 "$OVERLORDADJ$領朝鮮"
+ KOR_overseas_territories_DEF:0 "$OVERLORDADJ$領朝鮮"
+ KOR_overseas_territories_ADJ:0 "$OVERLORDADJ$領朝鮮"
 
  MAL_colony:0 "$OVERLORDADJ$領マラヤ植民地"
  MAL_colony_DEF:0 "$OVERLORDADJ$領マラヤ植民地"
  MAL_colony_ADJ:0 "$OVERLORDADJ$領マラヤ"
 
- MAN_government_general:0 "$OVERLORDADJ$領満州総督府"
- MAN_government_general_DEF:0 "$OVERLORDADJ$領満州総督府"
- MAN_government_general_ADJ:0 "$OVERLORDADJ$領満州"
+ MAN_overseas_territories:0 "$OVERLORDADJ$領満州"
+ MAN_overseas_territories_DEF:0 "$OVERLORDADJ$領満州"
+ MAN_overseas_territories_ADJ:0 "$OVERLORDADJ$領満州"
 
- PHI_government_general:0 "$OVERLORDADJ$領フィリピン総督府"
- PHI_government_general_DEF:0 "$OVERLORDADJ$領フィリピン総督府"
- PHI_government_general_ADJ:0 "$OVERLORDADJ$領フィリピン"
+ PHI_overseas_territories:0 "$OVERLORDADJ$領フィリピン"
+ PHI_overseas_territories_DEF:0 "$OVERLORDADJ$領フィリピン"
+ PHI_overseas_territories_ADJ:0 "$OVERLORDADJ$領フィリピン"
 
- RAJ_government_general:0 "$OVERLORDADJ$領インド総督府"
- RAJ_government_general_DEF:0 "$OVERLORDADJ$領インド総督府"
- RAJ_government_general_ADJ:0 "$OVERLORDADJ$領インド"
+ RAJ_junior_partner_colony:0 "$OVERLORDADJ$領インド帝国"
+ RAJ_junior_partner_colony_DEF:0 "$OVERLORDADJ$領インド帝国"
+ RAJ_junior_partner_colony_ADJ:0 "$OVERLORDADJ$領インド"
  
 #ヨーロッパ
  CYP_colony:0 "$OVERLORDADJ$領キプロス植民地"
@@ -120,18 +120,18 @@
  WES_colony_ADJ:0 "$OVERLORDADJ$領サハラ"
 
 #北米
- CAN_government_general:0 "$OVERLORDADJ$領カナダ総督府"
- CAN_government_general_DEF:0 "$OVERLORDADJ$領カナダ総督府"
- CAN_government_general_ADJ:0 "$OVERLORDADJ$領カナダ"
+ CAN_dominion:0 "カナダ自治領"
+ CAN_dominion_DEF:0 "カナダ自治領"
+ CAN_dominion_ADJ:0 "カナダ"
 
  USA_colony:0 "$OVERLORDADJ$領北アメリカ植民地"
  USA_colony_DEF:0 "$OVERLORDADJ$領北アメリカ植民地"
  USA_colony_ADJ:0 "$OVERLORDADJ$領北アメリカ"
 
 #中米
- BLZ_government_general:0 "$OVERLORDADJ$領ベリーズ総督府"
- BLZ_government_general_DEF:0 "$OVERLORDADJ$領ベリーズ総督府"
- BLZ_government_general_ADJ:0 "$OVERLORDADJ$領ベリーズ"
+ BLZ_overseas_territories:0 "$OVERLORDADJ$領ベリーズ"
+ BLZ_overseas_territories_DEF:0 "$OVERLORDADJ$領ベリーズ"
+ BLZ_overseas_territories_ADJ:0 "$OVERLORDADJ$領ベリーズ"
 
  CRC_colony:0 "$OVERLORDADJ$領アンティル植民地"
  CRC_colony_DEF:0 "$OVERLORDADJ$領アンティル植民地"
@@ -142,9 +142,9 @@
  JAM_colony_ADJ:0 "$OVERLORDADJ$領ジャマイカ"
 
 #南米
- CAY_government_general:0 "$OVERLORDADJ$領ギアナ総督府"
- CAY_government_general_DEF:0 "$OVERLORDADJ$領ギアナ総督府"
- CAY_government_general_ADJ:0 "$OVERLORDADJ$領ギアナ"
+ CAY_overseas_territories:0 "$OVERLORDADJ$領ギアナ"
+ CAY_overseas_territories_DEF:0 "$OVERLORDADJ$領ギアナ"
+ CAY_overseas_territories_ADJ:0 "$OVERLORDADJ$領ギアナ"
 
  GYA_colony:0 "$OVERLORDADJ$領ギアナ植民地"
  GYA_colony_DEF:0 "$OVERLORDADJ$領ギアナ植民地"
@@ -155,9 +155,9 @@
  SUR_colony_ADJ:0 "$OVERLORDADJ$領ギアナ"
 
 #オセアニア
- AST_government_general:0 "$OVERLORDADJ$領オーストララシア総督府"
- AST_government_general_DEF:0 "$OVERLORDADJ$領オーストララシア総督府"
- AST_government_general_ADJ:0 "$OVERLORDADJ$領オーストララシア"
+ AST_dominion:0 "$OVERLORDADJ$領オーストララシア自治領"
+ AST_dominion_DEF:0 "$OVERLORDADJ$領オーストララシア自治領"
+ AST_dominion_ADJ:0 "$OVERLORDADJ$領オーストララシア自治領"
 
  FIJ_colony:0 "$OVERLORDADJ$領フィジー植民地"
  FIJ_colony_DEF:0 "$OVERLORDADJ$領フィジー植民地"
@@ -167,9 +167,9 @@
  FSM_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領南洋諸島"
  FSM_mandate_territory_ADJ:0 "$OVERLORDADJ$領南洋諸島"
 
- GUM_government_general:0 "$OVERLORDADJ$領サイパン総督府"
- GUM_government_general_DEF:0 "$OVERLORDADJ$領サイパン総督府"
- GUM_government_general_ADJ:0 "$OVERLORDADJ$領サイパン"
+ GUM_overseas_territories:0 "$OVERLORDADJ$領サイパン"
+ GUM_overseas_territories_DEF:0 "$OVERLORDADJ$領サイパン"
+ GUM_overseas_territories_ADJ:0 "$OVERLORDADJ$領サイパン"
 
  NZL_colony:0 "$OVERLORDADJ$領ニュージーランド植民地"
  NZL_colony_DEF:0 "$OVERLORDADJ$領ニュージーランド植民地"
@@ -189,13 +189,13 @@
 
 ##追加国家
 #アジア
- INC_government_general:0 "$OVERLORDADJ$領インドシナ総督府"
- INC_government_general_DEF:0 "$OVERLORDADJ$領インドシナ総督府"
- INC_government_general_ADJ:0 "$OVERLORDADJ$領インドシナ"
+ INC_colonies_federation:0 "$OVERLORDADJ$領インドシナ連邦"
+ INC_colonies_federation_DEF:0 "$OVERLORDADJ$領インドシナ連邦"
+ INC_colonies_federation_ADJ:0 "$OVERLORDADJ$領インドシナ"
 
- TLS_mandate_territory:0 "$OVERLORDADJ$委任統治領ティモール"
- TLS_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領ティモール"
- TLS_mandate_territory_ADJ:0 "$OVERLORDADJ$領ティモール"
+ TLS_colony:0 "$OVERLORDADJ$領ティモール植民地"
+ TLS_colony_DEF:0 "$OVERLORDADJ$領ティモール植民地"
+ TLS_colony_ADJ:0 "$OVERLORDADJ$領ティモール"
 
  WHW_leased_territory:0 "$OVERLORDADJ$領威海衛租借地"
  WHW_leased_territory_DEF:0 "$OVERLORDADJ$領威海衛租借地"
