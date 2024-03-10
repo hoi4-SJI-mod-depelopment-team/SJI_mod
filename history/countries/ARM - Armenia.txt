@@ -1,1 +1,2 @@
 ﻿capital = 230 #Yerevan, Armenia
+set_cosmetic_tag = ARM_republic

@@ -8,8 +8,7 @@ state={
 	    victory_points = {
 			9262 3
 		}
-		owner = BLT
-		add_core_of=BLT
+		owner = LAT
 		add_core_of=LAT
 		add_core_of=COU
 		buildings={

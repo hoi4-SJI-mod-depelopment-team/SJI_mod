@@ -9,8 +9,7 @@ state={
 		}
 	history={
 		victory_points={ 9340 5 }
-		owner = BLT
-		add_core_of=BLT
+		owner = LAT
 		add_core_of=LAT
 		buildings={
 			infrastructure = 3

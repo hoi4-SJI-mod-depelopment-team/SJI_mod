@@ -1,2 +1,2 @@
 ﻿capital = 10
-set_cosmetic_tag = POLandLIT_rate_state
+set_cosmetic_tag = POL_rate_state

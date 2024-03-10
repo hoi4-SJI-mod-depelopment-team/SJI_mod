@@ -1,1 +1,2 @@
 ﻿capital = 812
+set_cosmetic_tag = EST_SOV_republic

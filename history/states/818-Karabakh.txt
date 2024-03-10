@@ -10,7 +10,7 @@ state={
 		}
 		add_core_of = ARM
 		add_core_of = AZR
-		owner = SOV
+		owner = ARM
 		buildings = {
 			infrastructure = 2
 		}

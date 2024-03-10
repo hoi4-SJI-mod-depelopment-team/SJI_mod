@@ -1,0 +1,7 @@
+
+set_cosmetic_tag = RUS_empire
+
+set_autonomy = {
+	target = KAZ
+	autonomy_state = autonomous_country
+}

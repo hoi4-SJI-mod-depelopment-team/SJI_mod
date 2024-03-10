@@ -9,7 +9,8 @@ state={
 	    victory_points = {
 			10472 5
 		}
-		owner = SOV
+		owner = OTT
+		add_core_of=OTT
 		add_core_of=TUR
 		add_core_of = ARM
 		buildings = {

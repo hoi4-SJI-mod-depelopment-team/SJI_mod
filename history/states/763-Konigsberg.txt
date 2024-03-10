@@ -5,7 +5,7 @@ state={
 	manpower = 1370000
 	state_category = town
 	history={
-		owner = POL
+		owner = GER
 		
 		victory_points = {
 			6332 10 

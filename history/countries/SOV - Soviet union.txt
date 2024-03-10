@@ -1,29 +1,21 @@
 ﻿
 capital = 219
-set_cosmetic_tag = SOV_democratic_republic_union
+set_cosmetic_tag = SOV_union
 
 set_autonomy = {
-	target = ABK
+	target = EST
 	autonomy_state = autonomous_republic
 }
 set_autonomy = {
-	target = ARM
+	target = KAR
 	autonomy_state = autonomous_republic
 }
 set_autonomy = {
-	target = FIN
+	target = LAT
 	autonomy_state = autonomous_republic
 }
 set_autonomy = {
-	target = GEO
-	autonomy_state = autonomous_republic
-}
-set_autonomy = {
-	target = KAZ
-	autonomy_state = autonomous_republic
-}
-set_autonomy = {
-	target = KYR
+	target = LIT
 	autonomy_state = autonomous_republic
 }
 set_autonomy = {
@@ -31,18 +23,6 @@ set_autonomy = {
 	autonomy_state = autonomous_republic
 }
 set_autonomy = {
-	target = TAJ
-	autonomy_state = autonomous_republic
-}
-set_autonomy = {
-	target = TMS
-	autonomy_state = autonomous_republic
-}
-set_autonomy = {
-	target = UZB
-	autonomy_state = autonomous_republic
-}
-set_autonomy = {
-	target = UKR
+	target = POL
 	autonomy_state = autonomous_republic
 }

@@ -7,8 +7,7 @@ state={
 		victory_points = {
 			310 1 
 		}
-		owner = BLT
-		add_core_of =BLT
+		owner = LAT
 		add_core_of = LAT
 		buildings = {
 			infrastructure = 2

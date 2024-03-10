@@ -10,7 +10,8 @@ state={
 		tungsten=4
 	}
 	history={
-		owner=SOV
+		owner=RUS
+		add_core_of = RUS
 		add_core_of=SOV
 		buildings={
 			infrastructure = 2

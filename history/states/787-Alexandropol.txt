@@ -10,7 +10,7 @@ state={
 		victory_points = {
 			6997 1
 		}
-		owner = SOV
+		owner = ARM
 		add_core_of = ARM
 		buildings = {
 			infrastructure = 2

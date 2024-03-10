@@ -8,10 +8,10 @@ state={
 		victory_points = {
 			10725 2
 		}
-		add_core_of = TUR
+		add_core_of = OTT
 		add_core_of = GEO
 		add_core_of = ARM
-		owner = SOV
+		owner = OTT
 		buildings = {
 			infrastructure = 2
 		}

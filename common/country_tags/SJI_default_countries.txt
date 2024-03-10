@@ -9,13 +9,16 @@
  INC = "countries/Asia.txt"	#インドシナ
  KWB = "countries/Asia.txt"	#川辺
  NAJ = "countries/Asia.txt"	#ナジュド
+ NCO = "countries/Asia.txt"	#北コーカサス
  NGX = "countries/Asia.txt"	#寧夏
  NOC = "countries/Asia.txt"	#国民国
  OTT = "countries/Asia.txt"	#オスマン
+ RUS = "countries/Asia.txt"	#ロシア
  SCH = "countries/Asia.txt"	#四川
  SHD = "countries/Asia.txt"	#山東
  QGH = "countries/Asia.txt"	#青海
  TLS = "countries/Asia.txt"	#東ティモール
+ TRK = "countries/Asia.txt"	#トルキスタン
  WHW = "countries/Asia.txt"	#威海衛
  ZJG = "countries/Asia.txt"	#浙江
 

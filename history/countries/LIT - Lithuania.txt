@@ -1,1 +1,2 @@
 ﻿capital = 11
+set_cosmetic_tag = LIT_SOV_republic

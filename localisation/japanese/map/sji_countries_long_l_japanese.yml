@@ -51,8 +51,11 @@
  CZE_AUSandHUN_council_republic:0 "チェコスロヴァキア評議会共和国"
  CZE_AUSandHUN_council_republic_DEF:0 "チェコスロヴァキア評議会共和国"
 
- FIN_democratic_republic:0 "フィンランド民主共和国"
- FIN_democratic_republic_DEF:0 "フィンランド民主共和国"
+ EST_SOV_republic:0 "エストニア・ソビエト共和国"
+ EST_SOV_republic_DEF:0 "エストニア・ソビエト共和国"
+
+ FIN_republic:0 "フィンランド共和国"
+ FIN_republic_DEF:0 "フィンランド共和国"
 
  GER_rate_state:0 "ドイツ・レーテ国"
  GER_rate_state_DEF:0 "ドイツ・レーテ国"
@@ -66,20 +69,30 @@
  HOL_kingdom:0 "オランダ王国"
  HOL_kingdom_DEF:0 "オランダ王国"
 
- KAR_SOV_republic:0 "カレロ＝フィン・ソビエト民主共和国"
- KAR_SOV_republic_DEF:0 "カレロ＝フィン・ソビエト民主共和国"
+ KAR_SOV_republic:0 "カレロ＝フィン・ソビエト共和国"
+ KAR_SOV_republic_DEF:0 "カレロ＝フィン・ソビエト共和国"
 
- MOL_SOV_republic:0 "ベッサラビア・ソビエト民主共和国"
- MOL_SOV_republic_DEF:0 "ベッサラビア・ソビエト民主共和国"
+ LAT_SOV_republic:0 "ラトビア・ソビエト共和国"
+ LAT_SOV_republic_DEF:0 "ラトビア・ソビエト共和国"
+
+ LIT_SOV_republic:0 "リトアニア・ソビエト共和国"
+ LIT_SOV_republic_DEF:0 "リトアニア・ソビエト共和国"
+
+ MOL_SOV_republic:0 "ベッサラビア・ソビエト共和国"
+ MOL_SOV_republic_DEF:0 "ベッサラビア・ソビエト共和国"
 
  NOR_kingdom:0 "ノルウェー王国"
  NOR_kingdom_DEF:0 "ノルウェー王国"
 
+ POL_rate_state:0 "ポーランド・レーテ国"
+ POL_rate_state_DEF:0 "ポーランド・レーテ国"
+ POL_rate_state_ADJ:0 "ポーランド"
+
  SER_principality:0 "セルビア公国"
  SER_principality_DEF:0 "セルビア公国"
 
- SOV_democratic_republic_union:0 "ソビエト民主主義共和国連邦"
- SOV_democratic_republic_union_DEF:0 "ソビエト民主主義共和国連邦"
+ SOV_union:0 "赤軍ロシア"
+ SOV_union_DEF:0 "赤軍ロシア"
 
  SWE_kingdom:0 "スウェーデン王国"
  SWE_kingdom_DEF:0 "スウェーデン王国"
@@ -157,9 +170,15 @@
  
  HJZ_kingdom:0 "ヒジャーズ王国"
  HJZ_kingdom_DEF:0 "ヒジャーズ王国"
- 
+
+ NCO_mountain_republic:0 "北カフカース山岳共和国"
+ NCO_mountain_republic_DEF:0 "北カフカース山岳共和国"
+
  ottoman_empire:0 "オスマン帝国"
  ottoman_empire_DEF:0 "オスマン帝国"
+
+ RUS_empire:0 "白軍ロシア"
+ RUS_empire_DEF:0 "白軍ロシア"
  
 #ヨーロッパ
  KPU_CZE_council_republic:0 "カルパト・ウクライナ評議会自治共和国"

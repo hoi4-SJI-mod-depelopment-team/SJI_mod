@@ -5,7 +5,8 @@ state={
 	state_category=town
 	provinces= { 10395 10435 10485 12324 12465 }
 	history={
-		owner=UZB
+		owner=TRK
+		add_core_of = TRK
 		add_core_of = UZB
 		victory_points = {
 			12324 4

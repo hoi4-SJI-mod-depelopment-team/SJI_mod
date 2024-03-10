@@ -41,6 +41,10 @@
  NEJDandHASA_emirate_DEF:0 "ナジュド及びハッサ首長国"
  NEJDandHASA_emirate_ADJ:0 "ナジュド・ハッサ"
  
+ ALASH_autonomy:0 "アラシュ自治国"
+ ALASH_autonomy_DEF:0 "アラシュ自治国"
+ ALASH_autonomy_ADJ:0 "アラシュ自治国"
+ 
 #ヨーロッパ
  AUSandHUN_council_republic:0 "オーストリア及びハンガリー評議会共和国"
  AUSandHUN_council_republic_DEF:0 "オーストリア及びハンガリー評議会共和国"
@@ -57,11 +61,7 @@
  LATandEST_united_duchy:0 "ラトビア及びエストニア連合公国"
  LATandEST_united_duchy_DEF:0 "ラトビア及びエストニア連合公国"
  LATandEST_united_duchy_ADJ:0 "ラトビア及びエストニア"
-
- POLandLIT_rate_state:0 "ポーランド＝リトアニア・レーテ国"
- POLandLIT_rate_state_DEF:0 "ポーランド＝リトアニア・レーテ国"
- POLandLIT_rate_state_ADJ:0 "ポーランド＝リトアニア"
-
+ 
  SERandMNT_principality:0 "セルビア＝モンテネグロ公国"
  SERandMNT_principality_DEF:0 "セルビア＝モンテネグロ公国"
  SERandMNT_principality_ADJ:0 "セルビア＝モンテネグロ"

@@ -1,2 +1,11 @@
 ﻿capital = 64
 set_cosmetic_tag = GER_rate_state
+
+set_autonomy = {
+	target = MEM
+	autonomy_state = puppet
+}
+set_autonomy = {
+	target = POL
+	autonomy_state = puppet
+}

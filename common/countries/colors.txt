@@ -995,3 +995,16 @@ BLT = {
 	color = rgb { 174 177 178 }
 	color_ui = rgb { 174 177 178 }
 }
+RUS = {	
+	color = rgb {  147 211 62 }
+	color_ui = rgb {  147 211 62 }
+}
+NCO = {	
+	color = rgb {  30 215 150 }
+	color_ui = rgb {  30 215 150 }
+}
+
+TRK = {	
+	color = rgb {  173 167 207 }
+	color_ui = rgb {  173 167 207 }
+}

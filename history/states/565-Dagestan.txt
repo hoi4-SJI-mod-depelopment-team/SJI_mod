@@ -8,8 +8,8 @@ state={
 		steel=2
 	}
 	history={
-		owner=SOV
-		add_core_of=MOU
+		owner=NCO
+		add_core_of=NCO
 		victory_points = {
 			3668 1
 		}	

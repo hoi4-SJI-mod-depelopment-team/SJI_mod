@@ -8,7 +8,8 @@ state={
 		victory_points = {
 			3434 2
 		}
-		owner = POL
+		owner = KRK
+		add_core_of=KRK
 		add_core_of=POL
 		add_core_of=GAL
 		add_core_of=UKR
