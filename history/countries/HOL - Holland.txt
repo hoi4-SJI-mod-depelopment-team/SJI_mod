@@ -6,6 +6,10 @@ set_autonomy = {
 	autonomy_state = colony
 }
 set_autonomy = {
+	target = CUB
+	autonomy_state = puppet
+}
+set_autonomy = {
 target = GIL
 autonomy_state = colony
 }
@@ -31,3 +35,4 @@ set_autonomy = {
 }
 
 give_guarantee = USB
+give_guarantee = CUB

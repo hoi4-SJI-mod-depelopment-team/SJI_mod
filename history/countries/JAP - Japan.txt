@@ -21,6 +21,10 @@ set_autonomy = {
 	autonomy_state = overseas_territories
 }
 set_autonomy = {
+	target = DOM
+	autonomy_state = puppet
+}
+set_autonomy = {
 	target = FSM
 	autonomy_state = mandate_territory
 }
@@ -64,3 +68,4 @@ set_autonomy = {
 give_guarantee = HAW
 give_guarantee = CHI
 give_guarantee = USB
+give_guarantee = DOM
