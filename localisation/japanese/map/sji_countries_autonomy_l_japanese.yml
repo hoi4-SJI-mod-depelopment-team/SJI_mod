@@ -42,9 +42,9 @@
  SPR_protected_territory_DEF:0 "$OVERLORDADJ$保護領スペイン"
  SPR_protected_territory_ADJ:0 "$OVERLORDADJ$領スペイン"
 
- BUL_autonomous_prefectur:0 "$OVERLORDADJ$領東ルメリ自治州"
- BUL_autonomous_prefectur_DEF:0 "$OVERLORDADJ$領東ルメリ自治州"
- BUL_autonomous_prefectur_ADJ:0 "$OVERLORDADJ$領ブルガリア"
+ TRA_autonomous_prefectur:0 "$OVERLORDADJ$領トランシルヴァニア自治州"
+ TRA_autonomous_prefectur_DEF:0 "$OVERLORDADJ$領トランシルヴァニア自治州"
+ TRA_autonomous_prefectur_ADJ:0 "$OVERLORDADJ$領トランシルヴァニア"
 
 #アフリカ
  ANG_colony:0 "$OVERLORDADJ$領アンゴラ植民地"
@@ -83,9 +83,9 @@
  MAD_colony_DEF:0 "$OVERLORDADJ$領マダガスカル植民地"
  MAD_colony_ADJ:0 "$OVERLORDADJ$領マダガスカル"
 
- MOR_colony:0 "$OVERLORDADJ$領モロッコ植民地"
- MOR_colony_DEF:0 "$OVERLORDADJ$領モロッコ植民地"
- MOR_colony_ADJ:0 "$OVERLORDADJ$領モロッコ"
+ MOR_mandate_territory:0 "$OVERLORDADJ$委任統治領モロッコ"
+ MOR_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領モロッコ"
+ MOR_mandate_territory_ADJ:0 "$OVERLORDADJ$領モロッコ"
 
  MZB_colony:0 "$OVERLORDADJ$領モザンビーク植民地"
  MZB_colony_DEF:0 "$OVERLORDADJ$領モザンビーク植民地"
@@ -111,9 +111,9 @@
  TOG_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領トーゴラント"
  TOG_mandate_territory_ADJ:0 "$OVERLORDADJ$領トーゴラント"
 
- TUN_colony:0 "$OVERLORDADJ$領チュニジア植民地"
- TUN_colony_DEF:0 "$OVERLORDADJ$領チュニジア植民地"
- TUN_colony_ADJ:0 "$OVERLORDADJ$領チュニジア"
+ TUN_mandate_territory:0 "$OVERLORDADJ$委任統治領チュニジア"
+ TUN_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領チュニジア"
+ TUN_mandate_territory_ADJ:0 "$OVERLORDADJ$委任統治領チュニジア"
 
  WES_colony:0 "$OVERLORDADJ$領サハラ植民地"
  WES_colony_DEF:0 "$OVERLORDADJ$領サハラ植民地"
@@ -239,9 +239,9 @@
  WAF_colony_DEF:0 "$OVERLORDADJ$領西アフリカ植民地"
  WAF_colony_ADJ:0 "$OVERLORDADJ$領西アフリカ"
 
- WLB_colony:0 "$OVERLORDADJ$領ウォルビスベイ植民地"
- WLB_colony_DEF:0 "$OVERLORDADJ$領ウォルビスベイ植民地"
- WLB_colony_ADJ:0 "$OVERLORDADJ$領ウォルビスベイ"
+ WLB_mandate_territory:0 "$OVERLORDADJ$委任統治領ウォルビスベイ"
+ WLB_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領ウォルビスベイ"
+ WLB_mandate_territory_ADJ:0 "$OVERLORDADJ$領ウォルビスベイ"
 
  WTG_mandate_territory:0 "$OVERLORDADJ$委任統治領トーゴランド"
  WTG_mandate_territory_DEF:0 "$OVERLORDADJ$委任統治領トーゴランド"

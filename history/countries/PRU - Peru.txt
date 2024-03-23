@@ -1,2 +1,2 @@
 ﻿capital = 303
-set_cosmetic_tag = PRU_republic
+set_cosmetic_tag = PRU-BOL_union

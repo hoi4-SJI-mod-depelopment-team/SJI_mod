@@ -22,3 +22,5 @@ set_autonomy = {
 	target = MOL
 	autonomy_state = autonomous_republic
 }
+
+give_guarantee = UKR

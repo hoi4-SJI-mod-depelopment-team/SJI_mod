@@ -1,1 +1,2 @@
 ﻿capital = 58
+set_cosmetic_tag = SHL_duchy

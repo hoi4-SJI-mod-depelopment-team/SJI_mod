@@ -1,2 +1,2 @@
 ﻿capital = 84
-set_cosmetic_tag = TRA_AUSandHUN_council_autonomous_prefectur
+set_cosmetic_tag = TRA_ROM_autonomous_prefecture

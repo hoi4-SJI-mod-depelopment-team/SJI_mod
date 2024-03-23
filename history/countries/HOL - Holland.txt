@@ -27,7 +27,7 @@ set_autonomy = {
 }
 	set_autonomy = {
 	target = WLB
-	autonomy_state = colony
+	autonomy_state = mandate_territory
 }
 set_autonomy = {
 	target = WTG

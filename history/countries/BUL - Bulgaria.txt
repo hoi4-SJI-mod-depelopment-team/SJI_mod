@@ -1,1 +1,3 @@
 ﻿capital = 48
+
+set_cosmetic_tag = BUL_principality

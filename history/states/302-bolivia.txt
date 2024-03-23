@@ -10,7 +10,8 @@ state={
 	}
 	history={
 		victory_points={ 5230 5 }
-		owner=BOL
+		owner=PRU
+		add_core_of=PRU
 		add_core_of=BOL
 		buildings={
 			infrastructure = 2

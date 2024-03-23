@@ -70,3 +70,8 @@
  CENTRALAMERICA_federal_republic:0 "中央アメリカ連邦共和国"
  CENTRALAMERICA_federal_republic_DEF:0 "中央アメリカ連邦共和国"
  CENTRALAMERICA_federal_republic_ADJ:0 "中央アメリカ"
+
+#南米
+ PRU-BOL_union:0 "ペルー・ボリビア連合"
+ PRU-BOL_union_DEF:0 "ペルー・ボリビア連合"
+ PRU-BOL_union_ADJ:0 "ペルー・ボリビア"

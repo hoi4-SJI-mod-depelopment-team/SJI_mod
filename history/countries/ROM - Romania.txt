@@ -1,2 +1,7 @@
 ﻿capital = 46
 set_cosmetic_tag = ROM_principality
+
+set_autonomy = {
+	target = TRA
+	autonomy_state = autonomous_prefecture
+}

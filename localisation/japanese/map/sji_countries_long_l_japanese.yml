@@ -14,29 +14,14 @@
  CHI_nation:0 "中国国民国"
  CHI_nation_DEF:0 "中国国民国"
 
- GEO_SOV_republic:0 "グルジア・ソビエト民主共和国"
- GEO_SOV_republic_DEF:0 "グルジア・ソビエト民主共和国"
-
- KAZ_SOV_republic:0 "カザフ・ソビエト民主共和国"
- KAZ_SOV_republic_DEF:0 "カザフ・ソビエト民主共和国"
-
- KYR_SOV_republic:0 "キルギス・ソビエト民主共和国"
- KYR_SOV_republic_DEF:0 "キルギス・ソビエト民主共和国"
-
  NEP_kingodom:0 "ネパール王国"
  NEP_kingodom_DEF:0 "ネパール王国" 
 
  PER_empire:0 "ペルシャ帝国"
  PER_empire_DEF:0 "ペルシャ帝国" 
 
- SIA_kingodom:0 "シャムル王国"
+ SIA_kingodom:0 "シャム王国"
  SIA_kingodom_DEF:0 "シャム王国" 
-
- TAJ_SOV_republic:0 "タジク・ソビエト民主共和国"
- TAJ_SOV_republic_DEF:0 "タジク・ソビエト民主共和国"
-
- TMS_SOV_republic:0 "トルクメン・ソビエト民主共和国"
- TMS_SOV_republic_DEF:0 "トルクメン・ソビエト民主共和国"
 
 #ヨーロッパ
  ALB_kingdom:0 "アルバニア王国"
@@ -88,8 +73,11 @@
  POL_rate_state_DEF:0 "ポーランド・レーテ国"
  POL_rate_state_ADJ:0 "ポーランド"
 
- SER_principality:0 "セルビア公国"
- SER_principality_DEF:0 "セルビア公国"
+ ROM_principality:0 "ルーマニア公国"
+ ROM_principality_DEF:0 "ルーマニア公国"
+
+ SHL_duchy:0 "シュレースヴィヒ・ホルシュタイン公国"
+ SHL_duchy_DEF:0 "シュレースヴィヒ・ホルシュタイン公国"
 
  SOV_union:0 "赤軍ロシア"
  SOV_union_DEF:0 "赤軍ロシア"
@@ -97,11 +85,11 @@
  SWE_kingdom:0 "スウェーデン王国"
  SWE_kingdom_DEF:0 "スウェーデン王国"
 
- TRA_AUSandHUN_council_autonomous_prefectur:0 "トランシルヴァニア評議会自治州"
- TRA_AUSandHUN_council_autonomous_prefectur_DEF:0 "トランシルヴァニア評議会自治州"
+ TRA_ROM_autonomous_prefecture:0 "トランシルヴァニア自治州"
+ TRA_ROM_autonomous_prefecture_DEF:0 "トランシルヴァニア自治州"
 
- UKR_SOV_republic:0 "ウクライナ・ソビエト民主共和国"
- UKR_SOV_republic_DEF:0 "ウクライナ・ソビエト民主共和国"
+ UKR_people_republic:0 "ウクライナ人民共和国"
+ UKR_people_republic_DEF:0 "ウクライナ人民共和国"
 
 #アフリカ
  

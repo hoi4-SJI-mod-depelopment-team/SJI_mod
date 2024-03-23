@@ -13,7 +13,3 @@ set_autonomy = {
 	target = KRK
 	autonomy_state = autonomous_republic
 }
-set_autonomy = {
-	target = TRA
-	autonomy_state = autonomous_prefecture
-}
